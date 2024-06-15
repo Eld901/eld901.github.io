@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eld901.github.io</id>
+    <title>eld901</title>
+    <updated>2024-06-15T08:50:32.090Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eld901.github.io"/>
+    <link rel="self" href="https://eld901.github.io/atom.xml"/>
+    <subtitle>-始于今日为时不晚-</subtitle>
+    <logo>https://eld901.github.io/images/avatar.png</logo>
+    <icon>https://eld901.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, eld901</rights>
+    <entry>
+        <title type="html"><![CDATA[document]]></title>
+        <id>https://eld901.github.io/post/document/</id>
+        <link href="https://eld901.github.io/post/document/">
+        </link>
+        <updated>2024-06-12T08:48:55.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>apipost<br>
+java(idea,jdk,maven)<br>
+mysql(mysql,navicat)<br>
+node<br>
+redis</p>
+<p>javaweb+mysql+maven+html+css+ajax+vue<br>
+<a href="https://www.jetbrains.com/zh-cn/idea/">IntelliJ IDEA – 领先的 Java 和 Kotlin IDE (jetbrains.com)</a><br>
+<a href="https://springdoc.cn/spring-boot/">Spring Boot 中文文档 (springdoc.cn)</a><br>
+<a href="https://cn.vuejs.org/">Vue.js - 渐进式 JavaScript 框架 | Vue.js (vuejs.org)</a><br>
+<a href="https://www.mysql.com/cn/">MySQL</a><br>
+<a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js — Introduction to Node.js (nodejs.org)</a><br>
+<a href="https://redis.io/">Redis - 实时数据平台</a></p>
+<hr>
+<p><a href="https://eld901.github.io">eld901</a><br>
+<a href="https://www.runoob.com/">菜鸟教程 - 学的不仅是技术，更是梦想！ (runoob.com)</a><br>
+<a href="https://www.cnblogs.com/edisonchou/p/the_way_to_fullstack_dotnet_programmer.html">.NET 全栈开发工程师学习路径 - EdisonZhou - 博客园 (cnblogs.com)</a><br>
+<strong>一种结构</strong>  数据结构<br>
+《大话数据结构》、《数据结构（C#语言描述）》、《剑指Offer》<br>
+<strong>两个协议</strong>  TCP 、HTTP协议<br>
+《图解TCP/IP协议》、《图解HTTP协议》<br>
+<strong>三大原理</strong>  计算机原理、操作系统原理、编译原理<br>
+计算机系统原理《程序是怎样跑起来的》、《深入理解计算机系统》<br>
+操作系统原理 《计算机的心智-操作系统之哲学原理》<br>
+编译原理 《编译原理（龙书）》<br>
+<strong>基本功扎实</strong>  正则表达式，Windows/Linux，Git<br>
+Linux :《鸟哥的Linux私房菜》<br>
+<strong>能够面向对象</strong>  有一定的面向对象设计基础，能够将业务逻辑转变为对象之间的交互<br>
+<strong>英语水平不赖</strong><br>
+流畅地阅读英文技术资料<br>
+与国外开发者用英文进行文字交流<br>
+准确地用英文进行代码中的命名<br>
+用英文写代码注释与git提交说明</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[routine]]></title>
+        <id>https://eld901.github.io/post/routine/</id>
+        <link href="https://eld901.github.io/post/routine/">
+        </link>
+        <updated>2024-06-12T08:48:04.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>电子书-&gt;网盘-&gt;pdf<br>
+（1）电子书下载-&gt;网站<br>
+（2）文献检索、格式 -&gt;学习：书籍+网站<br>
+（3）文献下载-&gt;网站<br>
+（4）网盘下载加速方法-&gt;网站<br>
+（5）文档格式转换，可编辑pdf-&gt;软件+网站4<br>
+<a href="https://bookfere.com/">书伴</a><br>
+<a href="https://www.jb51.net/books/">脚本之家</a><br>
+<a href="https://www.taolinks.cc/s/">淘链客</a><br>
+<a href="https://book.sciencereading.cn/shop/main/Login/shopFrame.do">科学文库</a>科学文库下载  ScienceDecrypting<br>
+<a href="https://www.axutongxue.top/2022/09/blog-post_14.html">科学文库电子书的下载教程整理 (axutongxue.top)</a><br>
+<a href="https://www.chongbuluo.com/thread-6353-1-1.html">求助，“科学文库”中的书籍怎么下载？ - 问答 - 虫部落 (chongbuluo.com)</a><br>
+<a href="http://www.1762.net/">考拉图书馆 学术文献下载</a><br>
+<a href="http://www.9312.net/kltsg.txt">9312.net/kltsg.txt</a><br>
+<a href="https://www.cnki.net/">中国知网 </a><br>
+<a href="https://www.wanfangdata.com.cn/index.html">万方数据知识服务平台</a><br>
+<a href="https://sci-hub.org.cn/">Sci-Hub文献检索 </a><br>
+<a href="https://zhuanlan.zhihu.com/p/487238976">sci论文、ei论文和ieee论文三者之间有什么区别？</a><br>
+<a href="https://www.ghxi.com/pcidm.html">IDM Internet Download Manager 果核剥壳 </a> 使用IDM下载可以提升下载速度<br>
+<a href="https://www.52pojie.cn/thread-1661476-1-1.html">WebUI-Aria2 1.36.0 图形界面前端面板 - 吾爱破解 -</a><br>
+<a href="https://blog.csdn.net/u011078141/article/details/89051995">如何把百度网盘下载速度提高 100 倍 CSDN博客</a></p>
+<p>pdf-&gt;翻译-&gt;笔记<br>
+（1）pdf归纳-&gt;文件管理软件<br>
+（2）文档、网页翻译 -&gt;翻译软件<br>
+（3）英语学习，词汇，语法-&gt;学习：网站+书籍+YouTube视频+翻译软件<br>
+<a href="https://www.zotero.org/">Zotero文献管理工具</a><br>
+<a href="https://dict.cnki.net/index">CNKI翻译助手</a><br>
+<a href="https://netspeak.org/">Netspeak</a><br>
+<a href="http://www.dictall.com/zt/T/TP/TP3/w1.htm">词都 计算机</a><br>
+[剑桥词典：查找意思、解释及翻译 (cambridge.org)](https://dictionary.cambridge.org/zhs/<br>
+<a href="https://scidict.org/">专业词典-学术词典-在线词典-在线翻译-SCIdict赛斯专业词典</a><br>
+<a href="https://www.grammarly.com/">论文润色Grammarly</a></p>
+<p>笔记-&gt;工具-&gt;语言-&gt;存储<br>
+（1）办公软件基础，office教程-&gt;学习：网站+书籍+视频<br>
+（2）Latex-&gt;学习：官网+视频<br>
+（3）markdown，支持Latex公式编辑 -&gt;学习：视频+网站<br>
+（4）obsidian， onenote-&gt;学习：官方文档<br>
+（5）技术文档撰写-&gt;学习：视频+网站<br>
+（6）富文本排版，文本，静图，动图，公式，表格，...-&gt;划分<br>
+<a href="https://blog.csdn.net/brave_stone/article/details/88913010">论文写作利器---LaTeX教程（入门篇）（更新中）_sci tex通用模板-CSDN博客</a><br>
+<a href="https://liam.page/2014/09/08/latex-introduction/"># 一份其实很短的 LaTeX 入门文档</a><br>
+<a href="https://zhuanlan.zhihu.com/p/64471104">Latex论文排版工具使用教程 - 知乎 (zhihu.com)</a><br>
+<a href="https://sspai.com/post/77684#!">LaTeX使用指南：从入门到精通 - 少数派 (sspai.com)</a><br>
+<a href="https://www.latexstudio.net/articles/">LaTeX工作室 - LaTeX工作室 (latexstudio.net)</a><br>
+<a href="https://www.latexlive.com/">在线LaTex编辑器</a><br>
+<a href="https://simpletex.cn/ai/latex_ocr">公式识别</a><br>
+<a href="https://blog.csdn.net/sinat_33224091/article/details/122150807">再见 Typora！这款 Markdown 神器绝了！</a><br>
+<a href="https://www.stats.gov.cn/">国家统计局 (stats.gov.cn)</a><br>
+<a href="https://www.escience.org.cn/">中国科技资源共享网 (escience.org.cn)</a><br>
+<a href="http://tuzhidian.com/">图之典</a><br>
+<a href="https://www.jianshu.com/p/bddcd4e61568">数据可视化的16个经典案例 - 简书 (jianshu.com)</a><br>
+<a href="https://www.25xt.com/article/68704.html">12个实用的可视化工具网站和学习网站推荐 - 25学堂 (25xt.com)</a></p>
+<p><a href="https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/2021%E5%B9%B4%E6%96%B0%E6%95%99%E7%A8%8B">Obsidian中文教程</a></p>
+<p>存储-&gt;传输-&gt;共享-&gt;博客<br>
+（1）本地存储-&gt;文件管理软件<br>
+（2）平台存储，百度、阿里、城通、夸克、天翼盘，网盘加速下载-&gt;网站<br>
+（3）跨平台文件传输，文叔叔、奶牛快传-&gt;网站<br>
+（4）跨设备资源同步，坚果云，SyncTrayzor，OneDrive-&gt;学习：网站<br>
+（5）资源分类管理平台，postimage，图床，...-&gt;学习：网站<br>
+（6）GitHub 平台存储-&gt;学习：官网+视频<br>
+（7）git 版本控制-&gt;学习：官网+视频<br>
+（8）博客，个人主页，社区平台<br>
+<a href="https://cowtransfer.com/">奶牛快传</a><br>
+<a href="https://www.wenshushu.cn/">文叔叔</a><br>
+<a href="https://git-scm.com/download/win">Git</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/361423810">新手建站、搭建个人博客指南</a><br>
+<a href="https://segmentfault.com/a/1190000039837806">如何搭建个人博客：几种方案比较 + 个人实现</a><br>
+<a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细）</a><br>
+<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo史上最全搭建教程-CSDN博客</a></p>
+<p>信息源-&gt;发展动向，领域动态，技术信息，实用工具-&gt;平台<br>
+（1）国家政策，义务教育课程标准，高校专业目录，中国图书馆分类，<br>
+（2）国家数据统计局，问卷调查，行业生态，<br>
+（3）公众号，招聘网站，企业官网，社区站点</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[temp]]></title>
+        <id>https://eld901.github.io/post/temp/</id>
+        <link href="https://eld901.github.io/post/temp/">
+        </link>
+        <updated>2024-06-11T02:42:46.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/395141991">互联网IT行业岗位分类与汇总 - 知乎 (zhihu.com)</a></p>
+<ul>
+<li>后端开发（Java、C++、PHP、数据挖掘、搜索算法、精准推荐、C、C#、全栈工程师、.NET、Hadoop、Python、Delphi、VB、Perl、Ruby、Node.js、Go、ASP、Shell、区块链）、移动开发（HTML5、Android、iOS、WP、移动开发其它）</li>
+<li>前端开发（web前端、Flash、html5、JavaScript、U3D、COCOS2D-X、前端开发其它）</li>
+<li>人工智能（深度学习、机器学习、图像处理、图像识别、语音识别、机器视觉、算法工程师、自然语言处理）</li>
+<li>测试（测试工程师、自动化测试、功能测试、性能测试、测试开发、游戏测试、白盒测试、灰盒测试、黑盒测试、手机测试、硬件测试、测试经理、测试其它）</li>
+<li>运维（运维工程师、运维开发工程师、网络工程师、系统工程师、IT支持、IDC、CDN、F5、系统管理员、病毒分析、WEB安全、网络安全、系统安全、运维经理、运维其它）</li>
+<li>数据库管理（MySQL、SQLServer、Oracle、DB2、MongoDB、ETL、Hive、数据仓库、DBA其它）、项目管理（项目经理、项目助理）</li>
+<li>硬件开发（硬件、嵌入式、自动化、单片机、电路设计、驱动开发、系统集成、FPGA开发、DSP开发、ARM开发、PCB工艺、模具设计、热传导、材料工程师、精益工程师、射频工程师、硬件开发其它）</li>
+<li>企业软件（实施工程师、售前工程师、售后工程师、BI工程师、企业软件其它）等</li>
+</ul>
+<p>开发技术的岗位分类通常基于不同的技术领域和职责。以下是一些常见的技术岗位分类：</p>
+<ol>
+<li>
+<p><strong>前端开发工程师</strong>：</p>
+<ul>
+<li>负责构建和维护网站或Web应用程序的用户界面和用户体验。</li>
+<li>技术栈通常包括HTML, CSS, JavaScript, 以及前端框架如React, Vue.js, Angular等。</li>
+</ul>
+</li>
+<li>
+<p><strong>后端开发工程师</strong>：</p>
+<ul>
+<li>负责服务器端逻辑、数据库交互和应用程序的后端服务。</li>
+<li>使用的技术可能包括Node.js, Python (Django, Flask), Java (Spring), .NET, Ruby on Rails等。</li>
+</ul>
+</li>
+<li>
+<p><strong>全栈开发工程师</strong>：</p>
+<ul>
+<li>负责前端和后端开发，能够处理Web应用程序的整个技术栈。</li>
+<li>需要掌握前端和后端开发的相关技能。</li>
+</ul>
+</li>
+<li>
+<p><strong>移动应用开发工程师</strong>：</p>
+<ul>
+<li>专注于为iOS和Android等移动平台开发应用程序。</li>
+<li>可能使用Swift, Objective-C, Java, Kotlin, React Native, Flutter等技术。</li>
+</ul>
+</li>
+<li>
+<p><strong>桌面应用开发工程师</strong>：</p>
+<ul>
+<li>负责开发可在Windows, macOS, Linux等操作系统上运行的桌面软件。</li>
+<li>技术栈可能包括C# (WPF, WinForms), Java (Swing, JavaFX), C++ (Qt), Electron等。</li>
+</ul>
+</li>
+<li>
+<p><strong>游戏开发工程师</strong>：</p>
+<ul>
+<li>开发电子游戏，可能涉及游戏引擎如Unity, Unreal Engine等。</li>
+<li>需要掌握游戏设计、图形编程、物理引擎、AI等技能。</li>
+</ul>
+</li>
+<li>
+<p><strong>数据工程师</strong>：</p>
+<ul>
+<li>负责设计、构建和维护数据处理流程和数据管道。</li>
+<li>技术栈可能包括Apache Hadoop, Spark, Kafka, 数据库技术等。</li>
+</ul>
+</li>
+<li>
+<p><strong>数据库管理员(DBA)</strong>：</p>
+<ul>
+<li>管理数据库系统，确保数据的安全、完整和可用。</li>
+<li>需要熟悉SQL和数据库管理系统如MySQL, PostgreSQL, Oracle, SQL Server等。</li>
+</ul>
+</li>
+<li>
+<p><strong>DevOps工程师</strong>：</p>
+<ul>
+<li>负责开发、运维和质量保证流程的自动化和集成。</li>
+<li>使用的工具可能包括Docker, Kubernetes, Jenkins, Ansible, Git等。</li>
+</ul>
+</li>
+<li>
+<p><strong>测试工程师</strong>：</p>
+<ul>
+<li>负责软件测试，包括单元测试、集成测试、性能测试和自动化测试。</li>
+<li>使用测试工具如Selenium, JUnit, TestNG, Postman等。</li>
+</ul>
+</li>
+<li>
+<p><strong>安全工程师</strong>：</p>
+<ul>
+<li>专注于保护软件和系统免受攻击，确保数据安全。</li>
+<li>需要熟悉加密技术、安全协议、渗透测试等。</li>
+</ul>
+</li>
+<li>
+<p><strong>人工智能/机器学习工程师</strong>：</p>
+<ul>
+<li>开发和部署AI和机器学习模型。</li>
+<li>使用的技术可能包括TensorFlow, PyTorch, Scikit-learn等。</li>
+</ul>
+</li>
+<li>
+<p><strong>云计算工程师</strong>：</p>
+<ul>
+<li>负责在云平台上设计、部署和管理应用程序和服务。</li>
+<li>需要熟悉AWS, Azure, Google Cloud等云服务。</li>
+</ul>
+</li>
+<li>
+<p><strong>项目经理/产品经理</strong>：</p>
+<ul>
+<li>负责规划、指导和监督技术项目，确保项目目标的实现。</li>
+<li>需要具备技术背景和项目管理技能。</li>
+</ul>
+</li>
+<li>
+<p><strong>UI/UX设计师</strong>：</p>
+<ul>
+<li>负责设计用户界面和用户体验。</li>
+<li>需要具备设计技能和对用户需求的理解。</li>
+</ul>
+</li>
+</ol>
+<p>每个岗位都有其特定的技能要求和职责，而且随着技术的发展，新的岗位也在不断出现。开发者可以根据自己的兴趣和职业规划选择适合的岗位。</p>
+<p>文档处理网站</p>
+<ol>
+<li>
+<p>即书（在线制作PPT）：https://www.keysuper.com/</p>
+</li>
+<li>
+<p>PDF处理：https://smallpdf.com/cn<br>
+PDF处理：https://www.ilovepdf.com/zh-cn<br>
+PDF处理：https://www.pdfpai.com/<br>
+PDF处理：https://www.hipdf.cn/<br>
+图片压缩，PDF处理：https://docsmall.com/<br>
+腾讯文档  https://docs.qq.com/desktop</p>
+</li>
+<li>
+<p>ProcessOn思维导图流程图-在线画思维导图流程图_在线作图实时协作  https://www.processon.com/</p>
+</li>
+<li>
+<p>iLovePDF | Online PDF tools for PDF lovers在线转换PDF利器  https://www.ilovepdf.com/</p>
+</li>
+<li>
+<p>吾道幻灯片-官方网站-专业的PPT在线协作工具，提供海量精美模板素材  https://www.woodo.cn/</p>
+</li>
+<li>
+<p>PDF24工具（pdf处理工具）：https://tools.pdf24.org/en<br>
+福昕云编辑 - 在线PDF编辑_在线办公_福昕PDF编辑器在线_在线编辑  https://edit.foxitcloud.cn/</p>
+</li>
+<li>
+<p>TinyPNG – 在线压缩图片  https://tinypng.com/</p>
+</li>
+<li>
+<p>PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】  https://www.ypppt.com/PPT下载 - 第一PPT  https://www.1ppt.com/xiazai/</p>
+</li>
+<li>
+<p>Excel函数表：https://support.office.com/zh-cn/article/excel-%E5%87%BD%E6%95%B0%EF%BC%88%E6%8C%89%E5%AD%97%E6%AF%8D%E9%A1%BA%E5%BA%8F%EF%BC%89-b3944572-255d-4efb-bb96-c6d90033e188</p>
+</li>
+</ol>
+<hr>
+<p>视频网站</p>
+<ol>
+<li>
+<p>阿木影视：https://www.aosk.online/</p>
+</li>
+<li>
+<p>电影推荐（分类别致）：http://www.mvcat.com</p>
+</li>
+<li>
+<p>APP影院：https://app.movie/</p>
+</li>
+<li>
+<p>去看TV：https://www.qukantv.net/</p>
+</li>
+<li>
+<p>动漫视频网：http://www.zzzfun.com/</p>
+</li>
+<li>
+<p>94神马电影网：http://www.9rmb.com/</p>
+</li>
+<li>
+<p>NO视频官网：http://www.novipnoad.com/</p>
+</li>
+<li>
+<p>蓝光画质电影：http://www.languang.co/</p>
+</li>
+<li>
+<p>在线看剧：http://dy.27234.cn/</p>
+</li>
+<li>
+<p>大数据导航：http://hao.199it.com/</p>
+</li>
+<li>
+<p>多功能图片网站：https://www.logosc.cn/so/</p>
+</li>
+<li>
+<p>牛牛TV：http://www.ziliao6.com/tv/</p>
+</li>
+<li>
+<p>VideoFk解析视频：http://www.videofk.com/</p>
+</li>
+<li>
+<p>蓝调网站：http://lcoc.top/vip2.3/</p>
+</li>
+<li>
+<p>永久资源采集网：http://www.yongjiuzy1.com/</p>
+</li>
+</ol>
+<p>设计网站</p>
+<ol>
+<li>
+<p>码力全开（产品/设计师/独立开发者的资源库）：https://www.maliquankai.com/designnav/</p>
+</li>
+<li>
+<p>免费音频素材：https://icons8.cn/music</p>
+</li>
+<li>
+<p>新CG儿（视频素材模板，无水印+免费下载）：https://www.newcger.com/</p>
+</li>
+<li>
+<p>Iconfont（阿里巴巴矢量图标库）：https://www.iconfont.cn/</p>
+</li>
+<li>
+<p>小图标下载：https://www.easyicon.net/</p>
+</li>
+<li>
+<p>Flight Icon：https://www.flighticon.co/</p>
+</li>
+<li>
+<p>第一字体转换器：http://www.diyiziti.com/</p>
+</li>
+<li>
+<p>doyoudosh（平面设计）：www.doyoudo.com</p>
+</li>
+<li>
+<p>企业宣传视频在线制作：https://duomu.tv/</p>
+</li>
+<li>
+<p>MAKE海报设计官网：http://maka.im/</p>
+</li>
+<li>
+<p>一键海报神器：https://www.logosc.cn/photo/?utm_source=hao.logosc.cn&amp;utm_medium=referral</p>
+</li>
+<li>
+<p>字由（字体设计）：http://www.hellofont.cn/</p>
+</li>
+<li>
+<p>查字体网站：https://fonts.safe.360.cn/</p>
+</li>
+<li>
+<p>爱给网（免费素材下载的网站，包括音效、配乐，3D、视频、游戏，平面、教程）：http://www.aigei.com/</p>
+</li>
+<li>
+<p>在线视频剪辑：https://bilibili.clipchamp.com/editor</p>
+</li>
+</ol>
+<p><a href="https://zhuanlan.zhihu.com/p/28761554">学Ae必收集网站归纳 - 知乎 (zhihu.com)</a></p>
+<p>图片壁纸网站</p>
+<ol>
+<li>
+<p>电脑壁纸：Beautiful Free Images &amp; Pictures | Unsplash  https://unsplash.com/</p>
+</li>
+<li>
+<p>4.5 million+ Stunning Free Images to Use Anywhere - Pixabay - Pixabay  https://pixabay.com/</p>
+</li>
+<li>
+<p>免费素材图片  https://www.pexels.com/zh-cn/</p>
+</li>
+<li>
+<p>VisualHunt  https://visualhunt.com/</p>
+</li>
+<li>
+<p>沙沙野-让作品遇见全世界  https://www.ssyer.com/</p>
+</li>
+<li>
+<p>4K壁纸_4K手机壁纸_4K高清壁纸大全_电脑壁纸_4K,5K,6K,7K,8K壁纸图片素材_彼岸图网  http://pic.netbian.com/</p>
+</li>
+<li>
+<p>极像素  https://www.sigoo.com/</p>
+</li>
+<li>
+<p>免费版权图片一键搜索 - 搜图神器  https://www.logosc.cn/so/</p>
+</li>
+</ol>
+<p>导航网站（工具类）</p>
+<ol>
+<li>
+<p>世界各国网址大全：http://www.world68.com/</p>
+</li>
+<li>
+<p>小森林导航：http://www.xsldh6.com/</p>
+</li>
+<li>
+<p>简捷工具：http://www.shulijp.com/</p>
+</li>
+<li>
+<p>NiceTool.net 好工具网：http://www.nicetool.net/</p>
+</li>
+<li>
+<p>现实君工具箱（综合型在线工具集成网站）：http://tool.uixsj.cn/</p>
+</li>
+<li>
+<p>蓝调网站：http://lcoc.top/</p>
+</li>
+<li>
+<p>偷渡鱼：https://touduyu.com/</p>
+</li>
+<li>
+<p>牛导航：http://www.ziliao6.com/</p>
+</li>
+<li>
+<p>小呆导航：https://www.webjike.com/index.html</p>
+</li>
+<li>
+<p>简法主页：http://www.jianfast.com/</p>
+</li>
+<li>
+<p>KIM主页：https://kim.plopco.com/</p>
+</li>
+<li>
+<p>聚BT：https://jubt.net/cn/index.html</p>
+</li>
+<li>
+<p>精准云工具合集：https://jingzhunyun.com/</p>
+</li>
+<li>
+<p>兔2工具合集：https://www.tool2.cn/</p>
+</li>
+<li>
+<p>爱资料工具（在线实用工具集合）：www.toolnb.com</p>
+</li>
+<li>
+<p>工具导航：https://hao.logosc.cn/</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网盘导航]]></title>
+        <id>https://eld901.github.io/post/wang-pan-dao-hang/</id>
+        <link href="https://eld901.github.io/post/wang-pan-dao-hang/">
+        </link>
+        <updated>2024-06-10T03:08:03.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>网盘<br>
+<a href="http://www.ys168.com/">永硕E盘 (ys168.com)</a><br>
+<a href="https://gmengshuai.lanzoux.com/">蓝奏·云存储 (lanzoux.com)</a><br>
+<a href="https://www.luomapan.xyz/#/main/search?restype=1">罗马盘 - 网盘搜索引擎 (luomapan.xyz)</a><br>
+<a href="https://www.feizhupan.com/#/main/search?restype=1">飞猪盘 - 网盘搜索引擎 (feizhupan.com)</a><br>
+<a href="https://www.luomapan.com/#/main/search?restype=1">罗马盘 - 网盘搜索引擎 (luomapan.com)</a><br>
+<a href="http://www.kuaituiapp.cn/">网盘搜索_百度云搜索_网盘资源_云盘搜索-快推云资源好用的百度网盘搜索引擎 - 山东欧特网络科技有限公司 (kuaituiapp.cn)</a><br>
+<a href="https://wpxz.pro/">网盘小站 (wpxz.pro)</a><br>
+<a href="https://pan.qianfan.app/">千帆搜索 - 资源超丰富的聚合网盘搜索引擎！ (qianfan.app)</a><br>
+<a href="https://www.dalipan.xyz/#/main/search?restype=1">大力盘 - 网盘搜索引擎 (dalipan.xyz)</a><br>
+<a href="https://www.xiaobaipan.com/">网盘搜索-小白盘 (xiaobaipan.com)</a><br>
+<a href="https://www.dxzy163.com/">大学资源网-自我提升的学习平台 (dxzy163.com)</a><br>
+<a href="https://www.jiandati.com/">简答题 - 简洁、实用的找答案题库 (jiandati.com)</a></p>
+<hr>
+<p>论坛<br>
+<a href="https://www.bookstack.cn/">书栈网 · BookStack_程序员IT互联网开源编程书籍</a><br>
+<a href="https://misishijie.com/">谜思世界-计算机编程教程 (misishijie.com)</a><br>
+<a href="https://www.javatiku.cn/">笨鸟教程 - 程序员AI编程教程 (javatiku.cn)</a><br>
+<a href="https://github.com/woai3c/2017ife-task">前端项目 (github.com)</a><br>
+<a href="https://searchdatacenter.techtarget.com.cn/9-29547/">Windows管理员必读的五本书 - TechTarget数据中心</a><br>
+<a href="https://blog.csdn.net/ctrigger/article/details/125037027">经典Windows编程书单_windows入门书籍-CSDN博客</a></p>
+<p><a href="https://www.cnblogs.com/">博客园 </a><br>
+<a href="http://muchong.com/bbs/">小木虫</a><br>
+<a href="https://images.newsmth.net/nForum/#!mainpage">水木社区</a><br>
+<a href="https://segmentfault.com/">SegmentFault 思否</a><br>
+<a href="https://www.oschina.net/">oschina中文社区</a><br>
+<a href="https://www.proginn.com/">程序员客栈</a><br>
+<a href="https://www.nowcoder.com/ta/kaoyan">牛客网-高校计算机考研复试</a><br>
+<a href="https://hackertalk.net/">黑客说 - 技术驱动优质交流 (hackertalk.net)</a><br>
+<a href="http://www.yishimei.cn/?=hwon4">亦是美网络 - 致力于操作系统应用与计算机网络技术</a><br>
+<a href="https://bbs.kanxue.com/">看雪</a><br>
+<a href="https://juejin.cn/?login=from_csdn">掘金</a><br>
+<a href="https://youqiong.net/">有穹</a><br>
+<a href="https://www.luogu.com.cn/">洛谷</a><br>
+<a href="https://xz.aliyun.com/">先知社区</a><br>
+<a href="https://www.webyang.net/">WebYang.NET- IT技术博客</a><br>
+<a href="https://bbs.pcbeta.com/">论坛 - 远景论坛 - 微软极客社区 (pcbeta.com)</a></p>
+<p><a href="https://www.jetbrains.com/zh-cn/lp/devecosystem-2022/">2022 开发者生态系统现状信息图 | JetBrains: Developer Tools for Professionals and Teams</a><br>
+<a href="https://www.wbolt.com/types-of-developers.html">11种类型的开发工程师（你会是哪一 种？） - 闪电博 (wbolt.com)</a><br>
+<a href="https://dev-roadmap.gitcode.host/">IT技术知识开源图谱</a><br>
+<a href="https://www.qianzhan.com/">前瞻网</a><br>
+<a href="http://www.chinadevelopment.com.cn/">中国发展网</a></p>
+<p><a href="https://swarma.org/">集智俱乐部 (swarma.org)</a><br>
+<a href="https://www.csig.org.cn/23/202103/50203.html">2021年模式识别高峰论坛成功举办_中国图象图形学学会 (csig.org.cn)</a><br>
+<a href="https://www.caa.org.cn/article/201/3928.html">“模式识别与机器智能”前沿论坛圆满落幕-中国自动化学会 (caa.org.cn)</a><br>
+<a href="https://www.ccf.org.cn/">中国计算机学会 (ccf.org.cn)</a></p>
+<hr>
+<p>导航<br>
+<a href="https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dsttCDySxp7SqbiSQh/viwptan7PxYzp">维格资源收集表</a><br>
+<a href="http://wanyouw.com/">12万有导航丨一个互联网全职业的聚合资源网址导航 (wanyouw.com)</a><br>
+<a href="https://axutongxue.com/">阿虚同学的储物间 (axutongxue.com)</a><br>
+<a href="https://www.exapmple.com/link/1153.html">软件缘官网_最新软件应用地址 - appcgn.com (exapmple.com)</a><br>
+<a href="https://tool.lu/">在线工具 - 你的工具箱 (tool.lu)</a><br>
+<a href="https://ailongmiao.com/">龙喵网 - 有态度的网址导航 (ailongmiao.com)</a><br>
+[虫部落快搜 - 搜索快人一步 - Google (chongbuluo.com)](https://search.chongbuluo.com/<br>
+<a href="https://tools.miku.ac/">MikuTools - 一个轻量的工具集合</a><br>
+<a href="https://funletu.com/dong-tai">动态 – Funletu</a><br>
+<a href="https://www.xiaolvji.com/u/leviathan">效率集</a><br>
+<a href="https://www.168nav.com/">168导航</a><br>
+<a href="https://blog.csdn.net/ai_yue/article/details/81948229#:~:text=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84IT%E7%A4%BE,%E4%B8%9A%E5%8C%96%E7%AD%89%E5%88%9A%E6%80%A7%E9%9C%80%E6%B1%82%E3%80%82">码农常用的十个网站_码农接单平台-CSDN博客</a><br>
+<a href="http://www.chinadas.net/">DAS导航-精选网址分类,绿色网址导航,实用网站大全 (chinadas.net)</a><br>
+<a href="https://tool.lu/">在线工具 - 你的工具箱 (tool.lu)</a><br>
+<a href="http://www.downcc.com/">绿色资源网-绿色下载站-做最好的免费软件下载网站 (downcc.com)</a><br>
+<a href="https://okktool.com/">最佳网址 (okktool.com)</a></p>
+<p><a href="https://postimg.cc/files">我的图片 — Postimages (postimg.cc)</a><br>
+<a href="https://gridea.dev/">Gridea — 建造你的数字花园，让写作成为最佳谈话方式</a></p>
+<p><a href="https://blog.csdn.net/weixin_41701290/article/details/115222152">整理了 40 多套 Java 完整实战项目 鱼皮项目百度网盘-CSDN博客</a><br>
+<a href="https://www.yuque.com/xiaqing-en2ii/skflxg/cayqu7tvpxrwt9tf">项目训练营项目资源概览 (yuque.com)</a></p>
+<p><a href="https://tophub.today/">今日热榜 (tophub.today)</a><br>
+<a href="https://www.chinaz.com/">站长之家 - 站长资讯-我们致力于为中文网站提供动力！ (chinaz.com)</a><br>
+<a href="https://seo.chinaz.com/xiaoshuai.link/">xiaoshuai.link的seo综合查询 - 站长工具 (chinaz.com)</a><br>
+<a href="http://www.seocha.net/">SEO查 - SEO效率工具 网站在线SEO查询工具 (seocha.net)</a><br>
+<a href="https://docs.pingcode.com/ask/321327.html">什么是反链，有什么增加反链的技巧 – PingCode</a><br>
+<a href="https://www.seozac.com/seo-tips/check-inbound-links/">怎样查询反向链接？ - SEO每天一贴 (seozac.com)</a></p>
+<p><a href="http://viewver.coolpage.biz/chrome.php">Chrome多平台版本更新地址</a><br>
+<a href="https://chromiumdash.appspot.com/schedule">Chrome内核更新计划</a><br>
+<a href="http://ftp.mozilla.org/pub/firefox/releases/">火狐浏览器多平台版本更新地址</a><br>
+<a href="https://www.soba8.com/">搜霸天下</a><br>
+<a href="https://zhuanlan.zhihu.com/p/182763918">推荐8个值得看的国内法律案例查询网站 - 知乎 (zhihu.com)</a></p>
+<p><a href="https://www.dxy.cn/bbs/newweb/pc/home">丁香园</a><br>
+<a href="https://www.researchgate.net/">ResearchGate | Find and share research</a><br>
+<a href="https://www.linkedin.com/">博后岗位 领英: 登录或注册 (linkedin.com)</a><br>
+<a href="https://arxiv.org/">arXiv.org 电子打印存档</a><br>
+<a href="https://researchhub.shruantao.com/">researchhub</a><br>
+<a href="https://www.scirp.org/index">Scientific Research</a></p>
+<p><a href="https://beian.miit.gov.cn/#/Integrated/index">ICP/IP地址/域名信息备案管理系统 (miit.gov.cn)</a><br>
+<a href="https://www.writebug.com/">WriteBug数字空间 - All in One 一站式内容管理</a><br>
+<a href="https://worktile.com/kb/">Worktile社区 • 让工作更简单</a><br>
+[知识库：图像质量与色彩技术资料 – 没找到想要的？就帮忙一起完善吧！<br>
+<a href="https://cloud.baidu.com/">百度智能云-云智一体深入产业 (baidu.com)</a><br>
+<a href="https://fuun.fun/">FUUN.FUN - 奇趣网站收藏家</a><br>
+<a href="https://blockchainbbs1.com/">全球区块链交流论坛 </a><br>
+<a href="https://www.ndt-auto.com/">水浸/空耦超声_超声C扫描_无损检测设备厂家_采声科技 (ndt-auto.com)</a><br>
+<a href="https://www.8264.com/">户外运动综合平台 - 8264户外</a><br>
+<a href="https://ipdahk.com/">鷹聯私家偵探社 – 鷹聯商務/私人顧問公司 (ipdahk.com)</a><br>
+<a href="https://www.jinlongzy.cn/?gad_source=5&amp;gclid=EAIaIQobChMI8MvQps6AhgMVkvtMAh25FQ9HEAAYAiAAEgL7qvD_BwE">深圳侦探,深圳市侦探公司,惠州侦探【面谈签约】-紫荣国际侦探调查公司 (jinlongzy.cn)</a><br>
+<a href="https://www.webhek.com/post/body-visualizer-female/">女性身体可视化修身工具 (webhek.com)</a></p>
+<hr>
+<p>科学<br>
+<a href="https://sunyun.xyz/">孙云SUNYUN</a><br>
+ <a href="https://dukou.io/user/index">渡口Dukou</a><br>
+<a href="https://easyfastcloud.com/">EFCLOUD (easyfastcloud.com)</a><br>
+<a href="https://aijichang.org/">爱机场 (aijichang.org)</a><br>
+<a href="https://jiasupanda.com/">胖橙博客 – 从此爱上技术 (jiasupanda.com)</a><br>
+<a href="https://iheikeji.com/">好翻墙机场推荐 </a><br>
+<a href="https://jichangzhu.gitbook.io/jichangtuijian">2024最新好用的机场推荐与节点分享 (2024-04) </a></p>
+<p><a href="https://zhpengfei.com/">telegram中文设置</a><br>
+<a href="https://kerrynotes.com/cannot-receive-telegram-verification-code/">解决 Telegram（电报）中国+86手机收不到验证码 - Kerry的学习笔记 (kerrynotes.com)</a><br>
+<a href="https://zhpengfei.com/fix-telegram-verification-china/#:~:text=%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E8%A7%A3%E5%86%B3%20%E5%9B%BD%E5%86%8586%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%B3%A8%E5%86%8C%20Telegram%20%E6%94%B6%E4%B8%8D%E5%88%B0%E7%9F%AD%E4%BF%A1%E9%AA%8C%E8%AF%81%E7%A0%81,%EF%BC%8C%E4%BD%BF%E7%94%A8%E6%AF%94%E8%BE%83%E5%A5%BD%E7%9A%84%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E3%80%81%E4%BD%BF%E7%94%A8%20sms-activate%20%E7%9F%AD%E4%BF%A1%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0%EF%BC%8C%E8%B4%AD%E4%B9%B0%E8%99%9A%E6%8B%9F%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%8E%A5%E6%94%B6%E9%AA%8C%E8%AF%81%E7%A0%81%EF%BC%8C%E6%B3%A8%E5%86%8C%E5%90%8E%EF%BC%8Ctelegram%E8%AE%BE%E7%BD%AE%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81telegram%E5%AE%89%E5%85%A8%E8%AE%BE%E7%BD%AE%EF%BC%8C%E9%98%B2%E6%AD%A2%20telegram%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%9B%97%EF%BC%8C%E6%9A%B4%E6%BC%8F%E6%89%8B%E6%9C%BA%E5%8F%B7%EF%BC%8C%E5%B9%B6%E8%A7%A3%E5%86%B3%20telegram%E6%97%A0%E6%B3%95%E7%99%BB%E5%BD%95">[已解决] 国内手机号注册 Telegram 收不到短信验证码 )</a><br>
+<a href="https://sms-activate.org/cn/service/telegram">购买适用于 Telegram 的虚拟号码 - SMS-Activate</a></p>
+<p><a href="https://sms-activate.org/cn">SMS-Activate是在线接受短信的虚拟号码服务</a><br>
+<a href="https://www.supercloudsms.com/">超级云短信接码平台</a></p>
+<hr>
+<p>网站主题<br>
+<a href="https://themesinfo.com/">WordPress Theme Detector and Plugin Detector (themesinfo.com)</a><br>
+<a href="https://themesinfo.com/onenav-theme-wordpress-cjt3q">One Nav theme WordPress by ?? (themesinfo.com)</a><br>
+<a href="http://wpthemedetector.coderschool.cn/">WordPress 主题在线检测工具 (coderschool.cn)</a></p>
+<p>博客站点<br>
+<a href="https://www.zhihu.com/question/313959402">(8 封私信 / 72 条消息) 有哪些知名的技术类型博客？ - 知乎 (zhihu.com)</a><br>
+<a href="http://tsttr.top/">u1.cx (tsttr.top)</a><br>
+<a href="https://www.kuhehe.top/">酷小呵 (kuhehe.top)</a><br>
+<a href="https://flowus.cn/kuhehe/share/ca3c1498-3adb-4c86-8341-67273327e1df">酷小呵</a><br>
+<a href="https://crowya.com/1519">鸦鸦的巢穴 (crowya.com)</a><br>
+<a href="https://chaoli.club/index.php/">超理论坛 (chaoli.club)</a><br>
+<a href="http://gmengshuai.ysepan.com/">小帅同学的储物间 (ysepan.com)</a><br>
+<a href="https://xiaoshuai.link/locker/#toc-heading-141">小帅同学的储物间搜索页🔍 | 小帅同学的博客 (xiaoshuai.link)</a><br>
+<a href="https://liam.page/">始终 (liam.page)</a><br>
+<a href="https://www.flydean.com/">程序那些事 (flydean.com)</a><br>
+<a href="https://www.yinpengfei.com/">Perfree的个人博客 (yinpengfei.com)</a><br>
+<a href="https://ifwind.github.io/">冬于的博客 (ifwind.github.io)</a><br>
+<a href="https://kerrynotes.com/">Kerry的学习笔记 - 好好学习，Day Day Up! (kerrynotes.com)</a></p>
+<p>blogs<br>
+<a href="https://www.foreverblog.cn/">十年之约 (foreverblog.cn)</a><br>
+<a href="https://www.wandhi.com/">玩的嗨</a><br>
+<a href="https://www.hankcs.com/">码农场-自然语言处理、机器学习算法 (hankcs.com)</a><br>
+<a href="http://nix.pub/">🍀每天都要开开心心的！_😄 (nix.pub)</a><br>
+<a href="https://dennybritz.com/posts/adopting-nix/">Adopting Nix - Initial impressions · Denny's Blog (dennybritz.com)</a><br>
+<a href="https://www.mcaoyuan.com/">马草原 の Blog (mcaoyuan.com)</a><br>
+<a href="https://laughingtiger.gitee.io/">LaughingCat (gitee.io)</a><br>
+<a href="https://631212502.github.io/">Eutupia by 夏夢 (631212502.github.io)</a><br>
+<a href="https://leonzy.wang/archives/">Archives | Zy的博客 (leonzy.wang)</a><br>
+<a href="https://ahuigo.github.io/?p=f~readme">纯静态博客 (ahuigo.github.io)</a><br>
+<a href="https://www.fomal.cc/">Fomalhaut🥝</a><br>
+<a href="https://tony-yzj.cn/">Tech, Poem &amp; More (tony-yzj.cn)</a><br>
+<a href="https://ytalien.github.io/">YT舒适区 (ytalien.github.io)</a><br>
+<a href="https://www.adeng127.cn/">Xraytf (adeng127.cn)</a><br>
+<a href="https://www.fusheng.today/">银河咖啡馆 (fusheng.today)</a><br>
+<a href="https://100million.top/">Mr.Wang - 前端之路 (100million.top)</a><br>
+<a href="https://smera1d0.github.io/">Smera1d0's Blog - 等到黑夜翻面之后会是新的白昼</a><br>
+<a href="https://miyi23.top/">Bevis23's Blog (miyi23.top)</a><br>
+<a href="https://yuchaoshui.com/">余子越的博客 (yuchaoshui.com)</a><br>
+<a href="https://baiwumm.com/">身后没有灯火，身前白雾茫茫 (baiwumm.com)</a><br>
+<a href="https://olstussy.top/">Olstussy</a><br>
+<a href="https://rlan-h.github.io/">冉蓝 - hello world (rlan-h.github.io)</a><br>
+<a href="https://www.xchere.fun/">叉息的空中咖啡馆 (xchere.fun)</a><br>
+<a href="https://vanilla0129.top/">香草布丁 (vanilla0129.top)</a><br>
+<a href="https://yiwanbin.top/">🐖抓到你啦～ (yiwanbin.top)</a><br>
+<a href="https://fjbq-blog.top/">FJBQ (fjbq-blog.top)</a><br>
+<a href="https://luviichann.top/">♪(<sup>∇</sup>*)我就知道你会回来！Luviichann的小天地</a><br>
+<a href="https://danran0102.cn/">淡然の随笔记 - Wonderful U (danran0102.cn)</a><br>
+<a href="https://sumorio.com/">苏末了 (sumorio.com)</a><br>
+<a href="https://yellowgg.cn/">yellowgg的小站</a><br>
+<a href="https://girlbio.github.io/">自学小屋 (girlbio.github.io)</a><br>
+<a href="https://vivid17.love/">Vividの小窝 (vivid17.love)</a><br>
+<a href="https://anym0re.cn/">林牧写给付梦瑶的情书 (anym0re.cn)</a><br>
+<a href="https://www.2iok.com/">遠丘 – 远望群山，从心而往。 (2iok.com)</a><br>
+<a href="https://kejohn.com/">林北的博客 (kejohn.com)</a><br>
+<a href="https://csmznbo.top/">我要成为嵌入式高手[doge] (csmznbo.top)</a><br>
+<a href="https://adauniverse.com/">Ada's Universe (adauniverse.com)</a><br>
+<a href="https://jiangbqlala.github.io/">江琪的Blog (jiangbqlala.github.io)</a><br>
+<a href="https://zhaoyangliu.top/">遥远的理想之城 (zhaoyangliu.top)</a><br>
+<a href="https://danran0102.cn/">淡然の随笔记 - Wonderful U (danran0102.cn)</a><br>
+<a href="https://fishpond.vip/">废物的摸鱼日常 (fishpond.vip)</a><br>
+<a href="https://nancyjane.cn/">NancyJane</a><br>
+<a href="https://www.xxhzm.cn/">小小孩子们的Blog (xxhzm.cn)</a><br>
+<a href="https://huahuipj.github.io/">Andy (huahuipj.github.io)</a><br>
+<a href="https://ljqyyds.com/">J.qiang &amp; 博客 (ljqyyds.com)</a><br>
+<a href="https://www.93cloud.online/">93 &amp; 博客 (93cloud.online)</a></p>
+<hr>
+<p>软件<br>
+<a href="https://s.jb51.net/?soft">服务器安全配置常用软件 脚本之家 (jb51.net)</a><br>
+<a href="https://www.ghxi.com/">果核剥壳 </a><br>
+<a href="https://www.xue51.com/">软件学堂</a><br>
+<a href="https://www.downxia.com/">当下软件园</a><br>
+<a href="https://www.zhiniw.com/">知您网</a><br>
+<a href="https://gadgetsrevived.com/category/utility/page/2/">实用工具档案 </a><br>
+<a href="https://www.yxssp.com/">异星软件空间</a><br>
+<a href="https://msdn.itellyou.cn/">MSDN, 我告诉你 - 做一个安静的工具站 (itellyou.cn)</a><br>
+<a href="https://www.iplaysoft.com/">异次元软件世界 </a><br>
+<a href="https://www.hezibuluo.com/">盒子部落</a><br>
+<a href="https://www.uy5.net/">克隆窝 </a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/106998587">作为程序员的我，常用的工具软件有哪些？ - 知乎 (zhihu.com)</a><br>
+<a href="https://zhuanlan.zhihu.com/p/446956620">程序员常用软件工具推荐(持续更新) - 知乎 (zhihu.com)</a><br>
+<a href="https://www.zhihu.com/question/465346075">(4 封私信 / 28 条消息) 神级程序员都在用什么工具? - 知乎 (zhihu.com)</a></p>
+<p><a href="https://software.3d66.com/">设计软件免费下载_软件大全_免费软件_破解软件-3d溜溜网 (3d66.com)</a><br>
+<a href="https://www.iplaysoft.com/">异次元软件世界 - 软件改变生活！ (iplaysoft.com)</a><br>
+<a href="https://www.mefcl.com/">mefcl'blog - 分享纯净好资源</a><br>
+<a href="http://www.dayanzai.me/">大眼仔旭 </a><br>
+<a href="https://www.423down.com/">423Down</a><br>
+<a href="https://www.luochenzhimu.com/">落尘之木-TO BE THE BEST! (luochenzhimu.com)</a><br>
+<a href="https://www.sssoou.com/">sssoou.com</a><br>
+<a href="https://www.douban.com/note/746549444/?_i=7688918Qp2zB_A">十大黑科技软件破解网站 (douban.com)</a><br>
+<a href="https://www.xibuluo.com/">西部落 -放心软件搜索平台 (xibuluo.com)</a><br>
+<a href="https://apkcombo.com/zh">安卓国际版软件 APK Downloader</a><br>
+<a href="https://mp.weixin.qq.com/s/2bi7Ju2ssom5X3FVB6k7Ow">软件安装站 软件目录 (qq.com)</a><br>
+<a href="https://mp.weixin.qq.com/s/8J5f6buTGIduGWnUn6dD0w">【软件目录】 请在公众号回复对应的软件名称！ (qq.com)</a><br>
+<a href="https://mp.weixin.qq.com/s/WIaG_Kx-qZqA74uux_CZxA">软件库 (qq.com)</a><br>
+<a href="https://iui.su/">不死鸟 - 分享为王官网 (iui.su)</a><br>
+<a href="https://www.xinquji.com/">新趣集 - 一起发现有趣的新产品 (xinquji.com)</a><br>
+<a href="https://meta.appinn.net/">小众软件官方论坛 - 小众软件 (appinn.net)</a><br>
+<a href="https://w2solo.com/">w2solo - 独立开发者社区</a><br>
+<a href="https://www.yxssp.com/">异星软件空间 | 感受不一样的精彩体验！ (yxssp.com)</a><br>
+<a href="http://www.dayanzai.me/">大眼仔旭 - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享 (dayanzai.me)</a><br>
+<a href="https://www.423down.com/">423Down</a><br>
+<a href="https://www.52kaoyan.cn/">吾爱考研论坛 - 考研党经验分享与资料共享的学习基地！ (52kaoyan.cn)</a><br>
+<a href="https://www.52pojie.cn/">吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn</a><br>
+<a href="https://www.52pojie.cn/forum-2-1.html">『原创发布区』 (52pojie.cn)</a><br>
+<a href="https://www.52pojie.cn/forum-16-1.html">『精品软件区』 (52pojie.cn)</a><br>
+<a href="https://www.weidown.com/?o=0">微当下载 (weidown.com)</a><br>
+<a href="https://www.wandoujia.com/">豌豆荚手机精灵 豌豆荚手机助手-海量安卓APP应用与游戏免费下载 (wandoujia.com)</a><br>
+<a href="http://www.appchina.com/">应用汇安卓市场_海量安卓软件,安卓游戏免费下载 - Appchina安卓手机应用官网商店</a></p>
+<p><a href="https://taiwebs.com/?lang=SG">Tải - Download (taiwebs.com)</a><br>
+<a href="https://downloadlynet.ir/">Downloadly 国外软件论坛 </a><br>
+<a href="https://getintopc.com/">PC软件修改顶流站点 Get Into PC - Download Free Your Desired App</a><br>
+<a href="https://repack.me/">Репаки от Кролика - REPACK.ME</a><br>
+<a href="https://lrepacks.net/"> (lrepacks.net)</a><br>
+<a href="https://alternativeto.net/">同类型软件替代AlternativeTo</a><br>
+<a href="https://nsaneforums.com/forum/48-software-updates/">Software Updates - Nsane Forums国外软件论坛 </a><br>
+<a href="https://www.0daydown.com/">0DayDown 国外软件论坛 </a><br>
+<a href="http://avaxhome.unblocker.xyz/">unblocker.xyz</a><br>
+<a href="https://portableapps.com/">PortableApps.com - Portable software for USB, portable, and cloud drives</a><br>
+<a href="https://nsaneforums.com/">Nsane Forums </a></p>
+<p>Mac站点<br>
+<a href="https://macwk.cn/">MacWk - 精品mac软件下载</a><br>
+<a href="https://github.com/hzlzh/Best-App/blob/master/README.md">Best-App/README.md at master · hzlzh/Best-App (github.com)</a></p>
+<p>硬件<br>
+<a href="https://www.expreview.com/">超能网 - 科技生活第一站 (expreview.com)</a></p>
+<p><a href="https://otp.landian.vip/zh-cn/">Office Tool Plus 官方网站 - 一键部署 Office</a><br>
+激活代码：/osppilbyid MondoVolume /osppsethst:kms.loli.beer /osppsetprt:1688 /osppact</p>
+<p>新建一个书签，命名为“软件搜索”<br>
+在链接构造里加上自己想要的站点。比如在 OR site:www.ghxi.com 跟上相同格式的其他站点<br>
+data:text/html,<script>(function(){var keyword=&quot;&quot;+(window.getSelection?window.getSelection():document.getSelection?document.getSelection():document.selection.createRange().text);if(!keyword)keyword=prompt(&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;,&quot;&quot;);window.open('https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q='+keyword+' (site:downloadly.net OR site:lrepacks.net OR site:https://getintopc.com OR site:taiwebs.com OR site:0daydown.com OR site:avaxhome.unblocker.xyz OR site:www.dayanzai.me OR site:www.423down.com OR site:www.appcgn.com OR site:www.52pojie.cn OR site:www.portablesoft.org OR site:www.ghxi.com OR site:www.luochenzhimu.com OR site:www.appinn.com OR site:www.iplaysoft.com OR site:portableapps.com OR site:foxirj.com OR site:www.mefcl.com OR site:nsaneforums.com)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=')})();</script></p>
+<hr>
+<p>设计<br>
+<a href="https://app.spline.design/home">Spline</a></p>
+<p>羽兔网<br>
+<a href="https://www.51zxw.net/">我要自学网</a><br>
+<a href="https://www.qijishow.com/down/index.html">奇迹秀工具箱 - 设计师的百宝箱 (qijishow.com)</a></p>
+<p><a href="http://weavesilk.com/">Silk – Interactive Generative Art (weavesilk.com)</a></p>
+<p><a href="https://unsplash.com/">Beautiful Free Images &amp; Pictures | Unsplash</a><br>
+<a href="https://pixabay.com/zh/">免费正版高清图片素材库 超过4.5百万张优质图片和视频素材可供免费使用和下载 </a><br>
+<a href="https://unsplash.com/images/stock/public-domain">Public Domain Pictures | Download Free Images on Unsplash</a><br>
+<a href="https://stellarium-web.org/">Stellarium Web Online Star Map (stellarium-web.org)</a><br>
+<a href="https://699pic.com/">摄图网-正版高清图片免费下载_商用设计素材图库 (699pic.com)</a></p>
+<p><a href="https://www.fonts.net.cn/">字体天下-提供各类字体的免费下载和在线预览服务 (fonts.net.cn)</a><br>
+<a href="http://www.sucaixiang.com/">素材巷 - 游戏素材,游戏素材网,免费可商用游戏素材下载 (sucaixiang.com)</a><br>
+<a href="https://opengameart.org/">OpenGameArt.org</a><br>
+<a href="https://www.uisdc.com/game-ui-database">920 款游戏、38000多张高清参考图免费提供！游戏灵感神站 GAME UI Databas - 优设网 - 学设计上优设 (uisdc.com)</a></p>
+<p><a href="https://www.penghy.xyz/gmmr2/">CG动画 《GMmr^2》 | 树莓妙妙屋 (penghy.xyz)</a><br>
+<a href="https://cn.eagle.cool/blog/post/free-game-assets">46+ 个免费游戏素材网站整理：2D、3D、人物、模型等免费下载 | Eagle 博客</a><br>
+<a href="https://cn.eagle.cool/blog/post/best-websites-to-download-free-3d-model-with-high-quality">看这篇就够！28 个免费 3D 模型下载、版权使用、资源网站整理 | Eagle 博客</a><br>
+<a href="https://www.3d66.com/">【3d模型免费下载】打造一流的3dmax模型库_3d溜溜网3d66.com</a><br>
+<a href="https://www.uisdc.com/5-hdri-websites#:~:text=5%E4%B8%AA%E5%85%8D%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%20HDRI%20%E7%8E%AF%E5%A2%83%E8%B4%B4%E5%9B%BE%E7%BD%91%E7%AB%99%201%20%E4%B8%80%E3%80%81HDRI%20Haven%20%E7%BD%91%E7%AB%99%E7%9B%B4%E8%BE%BE%EF%BC%9A%20https%3A%2F%2Fhdri-haven.com%2F,%E4%BA%94%E3%80%81Unsplash%20%2F%20Pixabay%20%2F%20Pexels%20Unsplash%EF%BC%9A%20https%3A%2F%2Funsplash.com%2F%20">3D设计必备！5个免高质量的 HDRI 环境贴图网站 - 优设网 - 学设计上优设 (uisdc.com)</a><br>
+<a href="https://www.cg99.com/">cg模型免费下载网站-数百万3d模型素材-cg99设计网</a><br>
+<a href="https://www.rrcg.cn/">人人CG - 人人素材RRCG 专业CG数字艺术分享平台</a><br>
+<a href="https://www.51jianmo.com/goodDetail">51建模网 - 模型库 (51jianmo.com)</a><br>
+<a href="https://blog.csdn.net/mirrornan/article/details/139142578">7个免费下载3D模型网站推荐（国内外都有）_国外3d模型网站-CSDN博客</a><br>
+<a href="https://www.element3ds.com/forum.php?mod=forumdisplay&amp;fid=313&amp;filter=sortid&amp;sortid=3&amp;searchsort=1&amp;yqcj=1&amp;typeid=249">模型/材质 - Unity3D商城-引擎商城-微元素 - Element3ds.com!</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWPU]]></title>
+        <id>https://eld901.github.io/post/swpu/</id>
+        <link href="https://eld901.github.io/post/swpu/">
+        </link>
+        <updated>2024-06-10T03:04:57.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<hr>
+<p>swpu<br>
+610500<br>
+[电子资源-西南石油大学图书馆 (swpu.edu.cn)](https://www.swpu.edu.cn/ips/20230411/erex.html<br>
+<a href="https://my.swpu.edu.cn/EIP/nonlogin/homePage.htm">西南石油大学师生综合服务大厅 (swpu.edu.cn)</a><br>
+<a href="https://www.swpu.edu.cn/nc/jwrk.htm">旧教务入口</a><br>
+<a href="https://deanservices.swpu.edu.cn/jwapp/sys/jwauthapp/login/index.html#/login">本科教学服务平台</a><br>
+<a href="https://deancs.swpu.edu.cn/xsxk/profile/index.html">学生选课</a><br>
+<a href="https://www.scxszz.cn/pros/identity/indexgx.action">四川高校国家奖助学金在线申请系统</a><br>
+<a href="http://cwjf.swpu.edu.cn/payment/">学杂费缴费平台</a><br>
+<a href="https://plat.swpu.edu.cn/Authentication/?returnUrl=https://me.swpu.edu.cn/Hall/NewIndex">数字学工平台</a></p>
+<p>图书馆资源组  aTrust<br>
+https://vpn.swpu.edu.cn<br>
+<a href="https://www-cnki-net-s.vpn.swpu.edu.cn:8118/">中国知网 (swpu.edu.cn)</a><br>
+<a href="https://qikan-cqvip-com-s.vpn.swpu.edu.cn:8118/">【维普期刊官网】- 中文期刊服务平台 (swpu.edu.cn)</a><br>
+<a href="https://www-sslibrary-com-s.vpn.swpu.edu.cn:8118/page/239443/show">超星汇雅电子书-西南石油大学 (swpu.edu.cn)</a><br>
+<a href="https://onepetro-org-s.vpn.swpu.edu.cn:8118/">OnePetro (swpu.edu.cn)</a><br>
+<a href="https://www-emerald-com-s.vpn.swpu.edu.cn:8118/insight/">Discover Journals, Books &amp; Case Studies | Emerald Insight (swpu.edu.cn)</a><br>
+<a href="https://www-cidp-com-cn-s.vpn.swpu.edu.cn:8118/">CIDP制造业数字资源平台 (swpu.edu.cn)</a><br>
+<a href="https://webofscience-clarivate-cn-s.vpn.swpu.edu.cn:8118/wos/alldb/basic-search">Document Search - All Databases (swpu.edu.cn)</a></p>
+<hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>面向对象程序设计</td>
+<td>高等数学(Ⅱ-1)</td>
+<td>文献检索与利用</td>
+</tr>
+<tr>
+<td>数据结构及算法</td>
+<td>高等数学(Ⅰ-2)</td>
+<td>毕业设计（论文）</td>
+</tr>
+<tr>
+<td>计算机网络</td>
+<td>离散结构</td>
+<td></td>
+</tr>
+<tr>
+<td>计算机系统</td>
+<td>线性代数Ⅰ</td>
+<td>专业生产实习</td>
+</tr>
+<tr>
+<td>C语言程序设计</td>
+<td>概率统计Ⅱ</td>
+<td>专业品牌活动</td>
+</tr>
+<tr>
+<td>人机交互技术</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据库原理及应用Ⅰ</td>
+<td>通用英语（I-1）</td>
+<td>学年综合实践1</td>
+</tr>
+<tr>
+<td>移动应用程序设计</td>
+<td>通用英语（I-2）</td>
+<td>学年综合实践2</td>
+</tr>
+<tr>
+<td>计算机三维建模</td>
+<td>大学物理II</td>
+<td>学年综合实践3</td>
+</tr>
+<tr>
+<td>计算机图形学</td>
+<td>马克思主义基本原理</td>
+<td></td>
+</tr>
+<tr>
+<td>web应用程序设计</td>
+<td>中国近现代史纲要</td>
+<td>劳动教育与实践</td>
+</tr>
+<tr>
+<td>数学建模</td>
+<td>毛泽东思想和中国特色社会主义理论体系概论</td>
+<td>职业能力实践</td>
+</tr>
+<tr>
+<td>游戏程序设计</td>
+<td>思想道德与法治</td>
+<td>创新创业实践</td>
+</tr>
+<tr>
+<td>计算机动画技术</td>
+<td>形势与政策1</td>
+<td></td>
+</tr>
+<tr>
+<td>人工智能概论</td>
+<td>形势与政策2</td>
+<td></td>
+</tr>
+<tr>
+<td>影视特效技术</td>
+<td>形势与政策3</td>
+<td></td>
+</tr>
+<tr>
+<td>数字图像处理</td>
+<td>形势与政策4</td>
+<td></td>
+</tr>
+<tr>
+<td>虚拟现实技术</td>
+<td>形势与政策5</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>学年</td>
+<td>第一学期  秋</td>
+<td>第二学期  春</td>
+</tr>
+<tr>
+<td>第1学年</td>
+<td>2021 9月到1月 寒</td>
+<td>2022春 2月到6月 暑</td>
+</tr>
+<tr>
+<td>第2学年</td>
+<td>2022 9月到1月 寒</td>
+<td>2023春 2月到6月 暑</td>
+</tr>
+<tr>
+<td>第3学年</td>
+<td>2023 9月到1月 寒</td>
+<td>2024春 2月到6月 暑</td>
+</tr>
+<tr>
+<td>第4学年</td>
+<td>2024 9月到1月 寒</td>
+<td>2025春 2月到6月 暑</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>2021-2022</th>
+<th></th>
+<th>2022-2023</th>
+<th></th>
+<th>2023-2024</th>
+<th></th>
+<th>2024-2025</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>秋</td>
+<td>春</td>
+<td>秋</td>
+<td>春</td>
+<td>秋</td>
+<td>春</td>
+<td>秋</td>
+<td>春</td>
+</tr>
+<tr>
+<td>Photoshop艺术</td>
+<td>通用英语（I-2）</td>
+<td>Photoshop艺术</td>
+<td>概率统计Ⅱ</td>
+<td>形势与政策5</td>
+<td>人工智能概论</td>
+<td>文献检索与利用</td>
+<td>毕业设计（论文）</td>
+</tr>
+<tr>
+<td>改革开放史</td>
+<td>C语言程序设计</td>
+<td>改革开放史</td>
+<td>数据库原理及应用Ⅰ</td>
+<td>计算机网络</td>
+<td>影视特效技术</td>
+<td>体能达标与测试</td>
+<td></td>
+</tr>
+<tr>
+<td>中国近现代史纲要</td>
+<td>美术基础</td>
+<td>中国近现代史纲要</td>
+<td>计算机系统</td>
+<td>计算机图形学</td>
+<td>数字图像处理</td>
+<td>劳动教育与实践</td>
+<td></td>
+</tr>
+<tr>
+<td>工程伦理</td>
+<td>大学生职业生涯发展与规划</td>
+<td>工程伦理</td>
+<td>学年综合实践2</td>
+<td>web应用程序设计</td>
+<td>学年综合实践3</td>
+<td>职业能力实践</td>
+<td></td>
+</tr>
+<tr>
+<td>离散结构</td>
+<td>毛泽东思想和中国特色社会主义理论体系概论</td>
+<td>离散结构</td>
+<td>移动应用程序设计</td>
+<td>数学建模</td>
+<td>虚拟现实技术</td>
+<td>创新创业实践</td>
+<td></td>
+</tr>
+<tr>
+<td>认知实习</td>
+<td>军事理论</td>
+<td>认知实习</td>
+<td>计算机三维建模</td>
+<td>国家安全概论</td>
+<td>应用文写作</td>
+<td>体育拓展</td>
+<td></td>
+</tr>
+<tr>
+<td>形势与政策3</td>
+<td>体育专项（排球）</td>
+<td>形势与政策3</td>
+<td>中国古典美学</td>
+<td>戏曲鉴赏</td>
+<td>形势与政策6</td>
+<td>专业生产实习</td>
+<td></td>
+</tr>
+<tr>
+<td>体育专项（篮球）</td>
+<td>高等数学(Ⅰ-2)</td>
+<td>体育专项（篮球）</td>
+<td>经济学概论</td>
+<td>游戏程序设计</td>
+<td>项目管理</td>
+<td>专业品牌活动</td>
+<td></td>
+</tr>
+<tr>
+<td>线性代数Ⅰ</td>
+<td>面向对象程序设计</td>
+<td>线性代数Ⅰ</td>
+<td>形势与政策4</td>
+<td>计算机动画技术</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>大学物理II</td>
+<td>学年综合实践1</td>
+<td>大学物理II</td>
+<td>马克思主义基本原理</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数据结构及算法</td>
+<td>智能无人机实验</td>
+<td>数据结构及算法</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>形势与政策2</td>
+<td>人机交互技术</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学术工具]]></title>
+        <id>https://eld901.github.io/post/xue-zhu-gong-ju/</id>
+        <link href="https://eld901.github.io/post/xue-zhu-gong-ju/">
+        </link>
+        <updated>2024-06-10T03:02:58.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>统计数据<br>
+<a href="https://data.stats.gov.cn/staticreq.htm?m=aboutctryinfo">国家数据 (stats.gov.cn)</a><br>
+<a href="https://www.stats.gov.cn/">国家统计局 (stats.gov.cn)</a><br>
+<a href="https://data.worldbank.org.cn/indicator/SP.POP.TOTL?name_desc=false">人口，总数 | Data (worldbank.org.cn)</a><br>
+<a href="http://images.newsmth.net/nForum/#!article/Geography/568668">全球各种语言使用人数排行 (newsmth.net)</a><br>
+<a href="https://www.51cto.com/article/679428.html">怎么获得各行业的数据？整理了24个网站，强烈建议收藏！-各行业数据在哪 (51cto.com)</a><br>
+<a href="https://sspai.com/post/81146#!">数据分析缺资料？这有37个超好用的免费行业分析报告网站！ - 少数派 (sspai.com)</a><br>
+<a href="http://nianjian.xiaze.com/help/">使用帮助_夏泽网 (xiaze.com)</a></p>
+<p><a href="https://hippter.com/">HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载</a><br>
+<a href="http://www.xszydq.com/">学术PPT - 学术资源大全</a><br>
+<a href="https://www.xiangdang.net/">香当网 - 工作文档分享下载平台</a><br>
+<a href="https://www.wenjuan.com/">问卷网-免费问卷调查平台</a></p>
+<p>可视化网页结构<br>
+<a href="https://blog.csdn.net/gitblog_00069/article/details/137496409">探索技术创新：Page Schema Player - 在线可视化网页结构解析工具-CSDN博客</a><br>
+<a href="https://cloud.tencent.com/developer/article/2387555">探索Pyecharts之美：绘制炫酷关系图的艺术与技巧-腾讯云开发者社区(tencent.com)</a><br>
+<a href="https://datavizcatalogue.com/ZH/index.html">数据可视化工具目录 (datavizcatalogue.com)</a><br>
+<a href="https://datavizcatalogue.com/ZH/%E6%96%B9%E6%B3%95/%E7%BD%91%E7%BB%9C%E5%9B%BE.html">网络图 (datavizcatalogue.com)</a><br>
+<a href="https://cytoscape.org/">Cytoscape：用于复杂网络分析和可视化的开源平台</a><br>
+<a href="https://echarts.apache.org/examples/zh/index.html#chart-type-line">Examples - Apache ECharts</a><br>
+<a href="https://online.visual-paradigm.com/cn/diagrams/solutions/free-network-diagram-software/">免费的网络图软件 (visual-paradigm.com)</a><br>
+<a href="https://creately.com/zh/lp/network-diagram-software/">网络图软件-网络图绘制 | Creately</a></p>
+<p>webGL<br>
+<a href="https://www.open-open.com/news/view/9d8136">9个令人震惊的WebGL示例 - WebGL - 前端技术 </a><br>
+<a href="https://threejs.org/">Three.js – JavaScript 3D 库 (threejs.org)</a><br>
+<a href="https://x.com/elonmusk">Elon Musk (@elonmusk) / X</a><br>
+<a href="http://marsgis.cn/">火星科技 | 地图可视化开发 (marsgis.cn)</a><br>
+<a href="https://online.geovisearth.com/browser">Earth星图地球 (geovisearth.com)</a><br>
+<a href="https://gitee.com/marsgis/mars3d">Mars3D三维可视化平台</a></p>
+<hr>
+<p>pdf工具<br>
+<a href="https://www.onlinedoctranslator.com/zh-CN/">在线文档翻译器——保留原文档的排版</a><br>
+<a href="https://www.pdf2go.com/">Online PDF </a><br>
+<a href="https://www.easeconvert.com/">易转换 - 免费文件转换工具</a><br>
+<a href="https://www.alltoall.net/">在线格式转换工具</a><br>
+<a href="https://link.zhihu.com/?target=https%3A//convertio.co/zh/ebook-converter/">在线电子书文件转换器</a><br>
+<a href="https://www.ilovepdf.com/zh-cn">iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具</a><br>
+<a href="https://smallpdf.com/cn">Smallpdf.com – 您所有PDF问题的免费解决方案</a></p>
+<p><a href="http://www.docleaner.cn/">图档清洁专家—PDF扫描件优化工具 (docleaner.cn)</a><br>
+<a href="https://www.beautifulcarrot.com/">萝卜工坊_一键生成手写文稿</a><br>
+<a href="https://uutool.cn/ocr/">在线OCR图片文字识别工具</a><br>
+<a href="https://zhuanlan.zhihu.com/p/527170537">公式识别OCR方法（支持latex和word等多种）知乎</a></p>
+<p><a href="https://tempmail.plus/zh/#!">一次性临时电子邮件 - TempMail.Plus</a><br>
+<a href="https://cli.im/">草料二维码生成器 (cli.im)</a><br>
+<a href="https://javiercbk.github.io/json_to_dart/">JSON转Dart (javiercbk.github.io)</a><br>
+<a href="https://www.json.cn/">JSON在线解析及格式化验证 - JSON.cn</a><br>
+<a href="https://getman.cn/">Getman.cn</a><br>
+<a href="https://bigjpg.com/zh">Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片</a></p>
+<hr>
+<p>AI工具<br>
+[免费AI工具使用指南](https://s1y0j3htc4f.feishu.cn/docx/Lr2ydaPE3ovowCxe28Jcs04xnhd<br>
+<a href="https://s1y0j3htc4f.feishu.cn/docx/Lr2ydaPE3ovowCxe28Jcs04xnhd">几个超好用的免费AI工具 - 飞书云文档 (feishu.cn)</a><br>
+<a href="https://sharedchat.fun/">RawChat公益站点 (sharedchat.fun)</a><br>
+<a href="https://kimi.moonshot.cn/">Kimi.ai - 帮你看更大的世界 (moonshot.cn)</a><br>
+<a href="https://www.doubao.com/chat/">豆包 - 抖音旗下 AI 智能助手 (doubao.com)</a><br>
+<a href="https://fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D">搜索结果 title&quot;ChatGPT Web&quot; - 网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统</a><br>
+<a href="https://ai.8217.net/web/#/">硕博AI (8217.net)</a></p>
+<hr>
+<p>脚本扩展<br>
+<a href="https://bbs.tampermonkey.net.cn/">油猴中文网</a><br>
+<a href="https://greasyfork.org/zh-CN">Greasy Fork - 安全、实用的用户脚本大全</a><br>
+<a href="https://crxdl.com/">CrxDL - 下载谷歌浏览器(Chrome)扩展插件CRX</a><br>
+<a href="https://www.chrome666.com/">分享好用靠谱的，Chrome/谷歌浏览器插件 (chrome666.com)</a><br>
+<a href="https://extfans.com/">Chrome浏览器插件下载,chrome谷歌商店插件crx应用推荐与下载-扩展迷 (extfans.com)</a></p>
+<hr>
+<p>搜书网站<br>
+epubee<br>
+<a href="https://www.xz577.com/">码农之家-计算机编程电子书下载网站 (xz577.com)</a><br>
+<a href="https://www.shuge.org/">书格 (shuge.org)</a><br>
+<a href="https://www.giffox.com/">电子书搜索 - 找电子书 - Google (giffox.com)</a><br>
+<a href="http://banshujiang.cn/">搬书匠</a><br>
+<a href="https://xmsoushu.com/#/">熊猫搜书</a><br>
+<a href="https://www.thinkdoc.vip/">your happy library</a><br>
+<a href="http://www.365baixing.com.cn/">百家姓电子书</a><br>
+<a href="https://www.yesky.online/zy/forum.php?mod=forumdisplay&amp;fid=41">学习教育 天空网资源社区 (yesky.online)</a><br>
+<a href="https://ss.yesky.online/">小兔搜书 - 实现你的读书自由 (yesky.online)</a><br>
+<a href="https://www.tacoso.cc/">Taco搜索-Taco Search-一个专注知识文档搜索的引擎 (tacoso.cc)</a><br>
+<a href="https://wqbook.wqxuetang.com/">文泉书局</a><br>
+<a href="https://ds.carsi.edu.cn/login/index.html?entityID=https%3A%2F%2Fspoauth2.carsi.edu.cn%2Fshibboleth&amp;return=https%3A%2F%2Fspoauth2.carsi.edu.cn%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A217ba5a4a68090f41860dbde00241fcb41be7b3c0cdbcf4fb27bd8c235336053">CERNET联邦认证与资源共享基础设施CARSI-用户登录</a><br>
+<a href="https://www.cxstar.com/"> 畅想中心</a><br>
+<a href="https://yd.51zhy.cn/ebook/web/homePage/queryHomePage">悦读 (51zhy.cn)</a>（咨询）<br>
+<a href="https://www.newbook8.com/jisuanji/72040.html">简阅读书网</a>（加群买书）<br>
+<a href="http://www.pdfbook.cn/">个人学习网| 个人学习资料 (pdfbook.cn)</a><br>
+<a href="https://lib.tsinghua.edu.cn/index.htm">清华大学图书馆 (tsinghua.edu.cn)</a><br>
+<a href="http://www.tup.tsinghua.edu.cn/index.html">清华大学出版社 (tsinghua.edu.cn)</a></p>
+<p><a href="https://post.smzdm.com/p/apvo2k49/">对收费说不！必须收藏！免费使用知网的7种方式_软件应用_什么值得买 (smzdm.com)</a><br>
+<a href="https://sspai.com/post/75863#!">有了这46个免费电子书网站，99%的书都能找得到</a><br>
+<a href="https://www.bilibili.com/read/cv11809833/">全网的PDF电子书任你下载，下不到算我输 - 哔哩哔哩 (bilibili.com)</a><br>
+<a href="https://github.com/light2cloud/pdf">1000多本计算机电子书免费下载github</a><br>
+<a href="https://github.com/justjavac/free-programming-books-zh_CN">免费的计算机编程类中文书籍(github.com)</a><br>
+<a href="https://github.com/jobbole/awesome-programming-books">jobbole/awesome-programming-books: 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 (github.com)</a></p>
+<hr>
+<p>科技英文写作<br>
+<a href="https://zhuanlan.zhihu.com/p/420877093">专有名词太多搞不定？国内外“术语库”汇总, 一定要会用这些网站！ - 知乎 (zhihu.com)</a><br>
+<a href="http://www.dictall.com/dictall/result.jsp">词都网</a><br>
+<a href="http://www.natcorp.ox.ac.uk/">[bnc] British National Corpus (ox.ac.uk)</a><br>
+<a href="https://www.english-corpora.org/bnc/">英语语料库：BNC (english-corpora.org)</a><br>
+<a href="https://www.english-corpora.org/coca/">英语语料库：COCA (english-corpora.org)</a><br>
+<a href="https://www.phrasebank.manchester.ac.uk/">学术短语库 |曼彻斯特大学 (manchester.ac.uk)</a><br>
+<a href="https://www.ithenticate.com/">英文论文查重Plagiarism Detection Software | iThenticate</a></p>
+<p><a href="https://www.wordreference.com/">English to French, Italian, German &amp; Spanish Dictionary - WordReference.com</a><br>
+<a href="http://fanyi.soba8.com/">在线翻译|英语在线翻译|汉译英|英译汉|fanyi|英文在线翻译搜霸天下 (soba8.com)</a></p>
+<p><a href="https://zhenti.burningvocabulary.cn/">英语真题在线 - 试卷排版设计 | 官网 (burningvocabulary.cn)</a><br>
+<a href="https://www.sohu.com/a/325189907_100034745">揭秘！历年真题原文出处！考研英语阅读选材来自哪？_The (sohu.com)</a><br>
+The Economist(《经济学人》)、<br>
+Bloomberg BusinessWeek(《商业周刊》)、<br>
+Nature(《自然杂志》)、<br>
+The WallStreetJournal(《华尔街邮报》、<br>
+The New York Times(《纽约时报》)</p>
+<p><a href="http://www.qcenglish.com/">七彩英语 - 英文原版原著下载</a><br>
+<a href="https://www.chineselikela.com/huaren/usa-study/35865/">22个免费美国教科书网站 包括高中及大学 - 美国实用资讯 (chineselikela.com)</a><br>
+<a href="https://sspai.com/post/55057#!">英文教科书又贵又难买？不如来这 7 个网站找找免费的电子版 - 少数派 (sspai.com)</a><br>
+<a href="https://zhuanlan.zhihu.com/p/53004229">世界各国语言学习网站（很全） - 知乎 (zhihu.com)</a></p>
+<hr>
+<p>文献下载<br>
+<a href="http://www.sci-hub.ac.cn/zw.html">文献免费下载-文献小镇 (sci-hub.ac.cn)</a><br>
+<a href="https://www.sgst.cn/index">上海研发公共服务平台-首页 (sgst.cn)</a><br>
+<a href="http://zjisa.zjlib.cn//home/zy_home.jsp?libCode=zjlib&amp;libCode1=null&amp;elecLibId=&amp;elecAZ=&amp;elec_re_type=resource_type&amp;elec_change_background=null#a1">浙江省公共图书馆资源服务门户 (zjlib.cn)</a></p>
+<p><a href="http://www.4243.net/">4243导航-大木虫学术导航-让文献下载更便捷！</a><br>
+<a href="http://nj95.net/lit/vip/">人人图书馆【VIP中文综合馆】,知网免费入口,账号一站式中外文献速递服务-人人图书馆 (nj95.net)</a><br>
+<a href="http://459.org/">文献部落 - 一站搞定文献下载 - 谷歌学术 (459.org)</a><br>
+<a href="http://m.365xue.vip/lit/vip/">神马-免费中文文献库，英文文献库，顶级pumed数据库、高权OVID数据库、 SD数据库、SCI 数据库 (365xue.vip)</a></p>
+<p><a href="https://www.termonline.cn/">术语在线 </a><br>
+<a href="http://scholar.kong0.cn/">空灵学术 (kong0.cn)</a><br>
+<a href="https://www.storkapp.me/main.php">文献鸟 (storkapp.me)</a><br>
+<a href="https://xy.kong0.cn/forum.php?mod=viewthread&amp;tid=1455&amp;page=1#pid3184">中国知网免费数据库账号 - 智者引路 - 空灵学院 - Powered by Discuz! (kong0.cn)</a><br>
+<a href="https://xy.kong0.cn/forum.php?mod=viewthread&amp;tid=1453">空灵学院读秀学术免费账号 - 智者引路 - 空灵学院 - Powered by Discuz! (kong0.cn)</a><br>
+<a href="https://xy.kong0.cn/forum.php?mod=viewthread&amp;tid=1268">Sciencedirect (SD)数据库免费账号 - 智者引路 - 空灵学院 - Powered by Discuz! (kong0.cn)</a><br>
+<a href="https://www.proquest.com/">国外论文查找 ProQuest | 更好的研究，更好的学习，更好的见解。</a><br>
+<a href="https://onlinelibrary.wiley.com/">Wiley在线图书馆 |科研文章、期刊、书籍和参考书</a><br>
+<a href="https://access.clarivate.com/login?app=wos&amp;alternative=true&amp;shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&amp;shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F&amp;roaming=true">Clarivate</a><br>
+<a href="https://www.scopus.com/home.uri">Scopus preview - Scopus - 欢迎使用 Scopus</a><br>
+<a href="https://gfsoso.99lb.net/">谷粉学术 (99lb.net)</a><br>
+<a href="https://www.x-mol.com/">X-MOL学术平台</a><br>
+<a href="https://www.sciencedirect.com/">ScienceDirect.com | Science, health and medical journals, full text articles and books.</a><br>
+<a href="https://www.engineeringvillage.com/home.url?redir=t">Welcome (engineeringvillage.com)</a><br>
+<a href="https://xueshu.baidu.com/?qq-pf-to=pcqq.c2c">百度学术 - 保持学习的态度 (baidu.com)</a><br>
+<a href="https://pubs.acs.org/journal/jacsat">Journal of the American Chemical Society - ACS Publications</a><br>
+<a href="https://pubs.acs.org/">ACS Publications | Peer-Reviewed Chemistry Journals, Scientific Articles, Books &amp; More | American Chemical Society</a><br>
+<a href="https://citeseerx.ist.psu.edu/">CiteSeerX (psu.edu)</a><br>
+<a href="https://figshare.com/">figshare - credit for all your research</a><br>
+<a href="https://www.science.org/toc/science/0/0">First Release | Science</a><br>
+<a href="https://www.cn-ki.net/">网页公告 (cn-ki.net)</a><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed的 (nih.gov)</a><br>
+<a href="https://www.amyxun.com/">Axmath/Axglyph/AxCells</a></p>
+<hr>
+<p>图书分类<br>
+<a href="http://clc.nlc.cn/index.html#:~:text=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%88%86%E7%B1%BB%E6%B3%95%E3%80%8B,%28%E5%8E%9F%E7%A7%B0%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB%E6%B3%95%E3%80%8B%29%E6%98%AF%E6%88%91%E5%9B%BD%E5%BB%BA%E5%9B%BD%E5%90%8E%E7%BC%96%E5%88%B6%E5%87%BA%E7%89%88%E7%9A%84%E4%B8%80%E9%83%A8%E5%85%B7%E6%9C%89%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%A4%A7%E5%9E%8B%E7%BB%BC%E5%90%88%E6%80%A7%E5%88%86%E7%B1%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E5%BD%93%E4%BB%8A%E5%9B%BD%E5%86%85%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B9%BF%E6%B3%9B%E7%9A%84%E5%88%86%E7%B1%BB%E6%B3%95%E4%BD%93%E7%B3%BB%EF%BC%8C%E7%AE%80%E7%A7%B0%E3%80%8A%E4%B8%AD%E5%9B%BE%E6%B3%95%E3%80%8B%E3%80%82%20%E3%80%8A%E4%B8%AD%E5%9B%BE%E6%B3%95%E3%80%8B%E5%88%9D%E7%89%88%E4%BA%8E1975%E5%B9%B4%EF%BC%8C1999%E5%B9%B4%E5%87%BA%E7%89%88%E4%BA%86%E7%AC%AC%E5%9B%9B%E7%89%88%E3%80%82">《中国图书馆分类法》在线查询 (nlc.cn)</a><br>
+<a href="https://www.clcindex.com/">中图分类号查询 | 中国图书馆分类法 | 中图法 | 中图分类号 (clcindex.com)</a><br>
+<a href="http://www.ztflh.com/">中国图书馆分类法 - 中图分类号 - 中图法 - 中图分类法 - 中图分类号查询 - 中图法分类号 - 中图分类 - 中国图书分类法简表 (ztflh.com)</a></p>
+<p>专业目录<br>
+<a href="http://www.moe.gov.cn/srcsite/A08/moe_1034/s4930/202403/t20240319_1121111.html">普通高等学校本科专业目录- 中华人民共和国教育部政府门户网站 </a><br>
+<a href="http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202101/t20210113_509631.html">国务院学位委员会办公室公布各专业学位类别的领域设置情况 </a><br>
+<a href="https://baike.baidu.com/item/%E6%99%AE%E9%80%9A%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95/2849128?fromModule=lemma_inlink">普通高等学校本科专业目录_百度百科 (baidu.com)</a><br>
+<a href="https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/663582?fromModule=lemma_inlink">计算机科学与技术（中国普通高等学校本科专业）百度百科 (baidu.com)</a></p>
+<hr>
+<p>考研<br>
+<a href="http://www.myubbs.com/">大学论坛大全</a><br>
+<a href="https://bbs.netbig.top/forum.php">网大论坛-高教论坛</a></p>
+<p><a href="https://link3.cc/wenwenquan223">白嫖の地 | Link3</a><br>
+<a href="http://daxuesheng123.ysepan.com/">白嫖の地（全能型资源导航） (ysepan.com)</a><br>
+<a href="http://xu05218023.ysepan.com/">【刺客知识库】一个助你通过考试的公众呺 (ysepan.com)</a><br>
+<a href="http://2006b.ysepan.com/">外语学习中心资料空间 (ysepan.com)</a><br>
+<a href="http://qzbltushu.ysepan.com/">金榜题名 (ysepan.com)</a><br>
+<a href="https://user.qzone.qq.com/1265673976/blog/1713048695?_t_=0.32117949705562143">CreativeLearner的空间</a></p>
+<p><a href="https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze">【建议收藏！】最全公开课知识库 (qq.com)</a><br>
+<a href="https://noobdream.com/">N诺 - 计算机考研保研必备神器 (noobdream.com)</a><br>
+<a href="https://chinagwy.org/html/stzx/index.html">公务员考试 试题中心 (chinagwy.org)</a><br>
+<a href="http://bbs.kaoyan.com/">考研论坛</a><br>
+<a href="https://www.51test.net/ncre/">计算机等级考试</a><br>
+<a href="https://xn--izu34f5t3d.com/">李研控 手机端</a></p>
+<p>高校教材<br>
+<a href="http://download.cucdc.com/">中国高校课件下载中心</a><br>
+<a href="http://www.ucdrs.superlib.net/">全国图书馆参考咨询联盟 (superlib.net)</a><br>
+<a href="https://book.sciencereading.cn/shop/main/Login/shopFrame.do">科学文库 (sciencereading.cn)</a><br>
+<a href="http://www.ucdrs.net/admin/union/index.do">联合参考咨询与文献传递网 (ucdrs.net)</a></p>
+<p>小初高教材<br>
+<a href="https://basic.smartedu.cn/tchMaterial?defaultTag=fa6200b8-b4aa-4d72-bebb-dddd93022a13%2Fc2cc6155-3e43-4d34-a4b0-588a925358a5%2F7bf50a9d-2c71-4d19-886c-6c08c97aea94">国家中小学智慧教育平台 (smartedu.cn)</a>在线读<br>
+<a href="http://www.dzkbw.com/">电子课本-电子课本网 (dzkbw.com)</a>微信下载<br>
+<a href="https://www.gov.cn/xinwen/2020-02/14/content_5478551.htm">教育部发布中小学国家课程教材电子版链接_部门政务_中国政府网 (www.gov.cn)</a><br>
+<a href="http://www.haoduoyun.cc/">好多电子课本网</a><br>
+<a href="http://www.kjzhan.com/">课件站</a><br>
+<a href="https://ishare.iask.sina.com.cn/">新浪爱问共享资料</a></p>
+<p>国学<br>
+<a href="https://ctext.org/zh">中國哲學書電子化計劃 (ctext.org)</a><br>
+<a href="http://www.guoxue.com/zt/gxbl/">国学网-《国学备览》——每个中国人必读的81部国学经典 (guoxue.com)</a><br>
+<a href="https://4gactwmn.mh.chaoxing.com/">中共中央党校（国家行政学院）图书和文化馆 (chaoxing.com)</a><br>
+<a href="https://www.chinesethought.cn/TermBase.aspx">中华思想文化术语传播网</a><br>
+<a href="https://ctext.org/zh">中國哲學書電子化計劃 (ctext.org)</a><br>
+<a href="https://zhuanlan.zhihu.com/p/386890361">中华经典藏书.中华书局·电子书· PDF合集 - 知乎 (zhihu.com)</a><br>
+<a href="http://www.guoxue.com/zt/gxbl/">国学网-《国学备览》——每个中国人必读的81部国学经典 (guoxue.com)</a><br>
+<a href="https://www.nppa.gov.cn/xxfb/tzgs/202103/P020221129375889315470.pdf">首批向全国推荐经典古籍及其整理版本</a><br>
+<a href="https://www.zhihu.com/question/27886140">(1 封私信 / 25 条消息) 有哪些比较全的在线古籍查找网站？ - 知乎 (zhihu.com)</a><br>
+<a href="https://zhuanlan.zhihu.com/p/356872503">国学类资源网站推荐 - 知乎 (zhihu.com)</a><br>
+<a href="http://www.guoxue.com/">国学网 (guoxue.com)</a><br>
+<a href="https://cnkgraph.com/">知识图谱 (cnkgraph.com)</a><br>
+<a href="http://www.china.org.cn/chinese/china_key_words/">中国关键词 _ China.org.cn</a><br>
+<a href="https://shuyu.cnki.net/index.aspx">中国规范术语 - 首页 (cnki.net)</a><br>
+<a href="http://www.hydcd.com/">汉语大辞典_辞海_新华字典电子版在线查询_词典大全 - 汉辞网 (hydcd.com)</a><br>
+<a href="https://forum.freemdict.com/">FreeMdict Forum - 词典编排</a></p>
+<hr>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官网]]></title>
+        <id>https://eld901.github.io/post/guan-wang/</id>
+        <link href="https://eld901.github.io/post/guan-wang/">
+        </link>
+        <updated>2024-06-10T03:00:31.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://www.npc.gov.cn/zgrdw/npc/xinwen/node_2557.htm">国务院部门网站_中国人大网 (npc.gov.cn)</a><br>
+<a href="http://www.moe.gov.cn/">中华人民共和国教育部政府门户网站 (moe.gov.cn)</a><br>
+<a href="https://www.most.gov.cn/index.html">中华人民共和国科学技术部 (most.gov.cn)</a><br>
+<a href="https://www.ccf.org.cn/">中国计算机学会 (ccf.org.cn)</a><br>
+<a href="https://www.cnipa.gov.cn/">国家知识产权局 (cnipa.gov.cn)</a><br>
+<a href="https://www.cast.org.cn/">中国科学技术协会 (cast.org.cn)</a><br>
+<a href="https://www.cae.cn/">中国工程院 (cae.cn)</a><br>
+<a href="https://www.cas.cn/">中国科学院 (cas.cn)</a><br>
+<a href="http://www.sasac.gov.cn/">国务院国有资产监督管理委员会 (sasac.gov.cn)</a><br>
+<a href="http://www.pbc.gov.cn/">中国人民银行 (pbc.gov.cn)</a><br>
+<a href="https://www.miit.gov.cn/">中华人民共和国工业和信息化部 (miit.gov.cn)</a><br>
+<a href="https://www.nsfc.gov.cn/">国家自然科学基金委员会 &gt; 首页 (nsfc.gov.cn)</a><br>
+<a href="https://www.iterchina.cn/">中国国际核聚变能源计划执行中心 (iterchina.cn)</a><a href="https://nrscc.most.cn/">国家遥感中心 (most.cn)</a><br>
+<a href="http://www.casted.org.cn/">中国科学技术发展战略研究院 (casted.org.cn)</a><br>
+<a href="http://caiep.most.cn/">中国国际人才交流中心 (most.cn)</a></p>
+<p><a href="https://kjt.sc.gov.cn/">四川省科学技术厅 (sc.gov.cn)</a><br>
+<a href="https://kxjst.jiangsu.gov.cn/">江苏省科技厅 (jiangsu.gov.cn)</a><br>
+<a href="https://kjt.zj.gov.cn/">浙江省科学技术厅 (zj.gov.cn)</a><br>
+<a href="https://kw.beijing.gov.cn/">北京市科学技术委员会、中关村科技园区管理委员会 (beijing.gov.cn)</a></p>
+<p><a href="https://www.spacechina.com/n25/n150/index.html">中国航天科技集团有限公司 (spacechina.com)</a><br>
+<a href="http://www.beidou.gov.cn/">北斗卫星导航系统 (beidou.gov.cn)</a><br>
+<a href="https://www.cast.cn/channel/1547">神舟学院-中国空间技术研究院</a><br>
+<a href="https://www.spacetalent.com.cn/">中国航天人才网 (spacetalent.com.cn)</a><br>
+<a href="http://calt.spacechina.com/n487/n2678/n2680/c28203/content.html">火箭院研究生培养单位简介 - 中国运载火箭技术研究院 (spacechina.com)</a><br>
+<a href="http://www.csat.spacechina.com/index.html">中国卫通集团有限公司 (spacechina.com)</a><br>
+<a href="http://www.bjsasc.com/n2545/n2550/index.html">北京神州航天软件技术有限公司</a><br>
+<a href="https://www.chinasiwei.com/product/temporalProduct">中国四维测绘技术有限公司 (chinasiwei.com)</a></p>
+<p><a href="https://www.shanghairanking.cn/">软科-高等教育评价领先品牌 (shanghairanking.cn)</a><br>
+<a href="https://www.chinadegrees.cn/">教育部学位与研究生教育发展中心 (chinadegrees.cn)</a><br>
+<a href="https://account.chsi.com.cn/passport/login?entrytype=yzgr&amp;service=https%3A%2F%2Fyz.chsi.com.cn%2Fj_spring_cas_security_check%3Bjsessionid%3D47339F8E9D31F9A1FD9172A3F86E225C">中国研究生招生信息网</a><br>
+<a href="https://account.chsi.com.cn/passport/login?service=https%3A%2F%2Faccount.chsi.com.cn%2Faccount%2Fj_spring_cas_security_check">学信网</a><br>
+<a href="https://www.neea.edu.cn/">中国教育考试网</a></p>
+<p><a href="http://bcbdi.siat.ac.cn/">中国科学院深圳先进技术研究院 脑认知与脑疾病研究所 (siat.ac.cn)</a><br>
+<a href="http://www.neuroscience.zju.edu.cn/">浙江大学脑科学与脑医学学院 (zju.edu.cn)</a><br>
+<a href="http://www.qaas.zju.edu.cn/BMI/index.asp">浙江大学脑机接口研究所 </a><br>
+<a href="http://www.qaas.zju.edu.cn/BMI/jobmore.asp?id=14">浙江大学脑机接口研究所</a></p>
+<p><a href="https://admission.ucas.ac.cn/ShowArticle/newslist1/0134e73f-f9d8-4ea0-a3df-1b912769325f">通知公告-中国科学院大学招生信息网</a><br>
+<a href="http://www.ia.ac.cn/">中国科学院自动化研究所 (ia.ac.cn)</a><br>
+<a href="http://www.ia.cas.cn/yjsjy/zs/sszs/202309/t20230922_6885300.html">中国科学院自动化研究所2024年招收攻读硕士学位研究生招生简章</a><br>
+<a href="https://admission.ucas.ac.cn/info/ZhaoshengDanweiDetail/9e780c52-baf5-4020-b453-bc4510579559/8014612024">自动化研究所 招生单位-中国科学院大学招生信息网</a><br>
+<a href="http://www.ia.cas.cn/yjsjy/dsjj/">中科院自动化所招生专业与导师招生方向</a><br>
+<a href="https://admission.ucas.ac.cn/Assistant/FractionLinePydw/79e1e9fe-31f8-43c7-9b72-3d2e11c95a52?dwid=80146">自动化研究所 历年分数线-中国科学院大学招生信息网</a><br>
+<a href="http://www.ia.cas.cn/yjsjy/zs/sszs/202104/t20210420_5995064.html">中国科学院自动化研究所2021年统考硕士拟录取情况公示</a>（354-441）<br>
+<a href="http://www.ia.cas.cn/yjsjy/zs/sszs/202204/t20220413_6425863.html">中国科学院自动化研究所2022年统考硕士拟录取情况公示</a>（360-435）<br>
+<a href="http://www.ia.cas.cn/yjsjy/zs/sszs/202304/t20230405_6727093.html">中国科学院自动化研究所2023年统考硕士拟录取情况公示</a>（372-432）<br>
+<a href="http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240315_6965910.html">中国科学院自动化研究所2024年公开招考硕士生复试规程及复试名单</a><br>
+<a href="https://admission.ucas.ac.cn/Content/Upload/2023/7/601%20%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%EF%BC%88%E7%94%B2%EF%BC%89.pdf">中国科学院大学硕士研究生入学考试 高等数学（甲）考试大纲</a><br>
+<a href="https://admission.ucas.ac.cn/Content/Upload/2021/6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E7%BB%BC%E5%90%88.pdf">中国科学院大学 2020 年 计算机专业综合</a></p>
+<p><a href="https://www.siat.ac.cn/">中国科学院深圳先进技术研究院 (siat.ac.cn)</a><br>
+<a href="https://admission.ucas.ac.cn/info/ZhaoshengDanweiDetail/9e780c52-baf5-4020-b453-bc4510579559/8017712024">深圳先进技术研究院 招生单位- 中国科学院大学招生信息网 (ucas.ac.cn)</a></p>
+<p><a href="https://www.mi-research.net/">Machine Intelligence Research MIR</a><br>
+<a href="https://brain.ieee.org">IEEE Brain|Neuroscience News,Events,and Research</a><br>
+<a href="https://bcisociety.org/">BCIsociety.org</a><br>
+<a href="https://www.bci-award.com/Home">BCI Award</a><br>
+<a href="https://www.naoji123.com/">脑机网</a><br>
+<a href="https://bnci-horizon-2020.eu/">Home - BNCI Horizon 2020 (bnci-horizon-2020.eu)</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/194265759">知乎 Nature子刊：清华研究团队盘点类脑计算芯片简史</a><br>
+<a href="https://zhuanlan.zhihu.com/p/640520550">知乎『脑机接口BCI资源合集』— 社区和博客介绍</a><br>
+<a href="https://mp.weixin.qq.com/s?__biz=Mzg4MzYzNDgwMQ==&amp;mid=2247508421&amp;idx=1&amp;sn=d23778b713d6017c65c85f58eaa113b3&amp;source=41#wechat_redirect">公众号 一个网站让你系统的入门脑机接口和神经科学</a><br>
+<a href="https://lbrc.sisu.edu.cn/xwgg/c5e05cfad81c41d4a070f0170ec4d16f.htm">四川外国语大学语言脑科学研究中心 (sisu.edu.cn)</a></p>
+<p><a href="https://www.cnblogs.com/chencarl/p/15801376.html">工业软件技术的总结和开发方向 - chencarl - 博客园 (cnblogs.com)</a><br>
+<a href="https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/107527285">深度解析工业软件：研究框架（140页）-CSDN博客</a></p>
+<p><a href="https://c.liepin.com/?time=1714881377737">猎聘 (liepin.com)</a><br>
+<a href="https://yuancheng.work/">远程.work)</a><br>
+<a href="https://ac.shixiseng.com/newvolcano/act_necvcaldy95j?utm_source=hd-pc-sybanner&amp;utm_campaign=hd-kyckzz">实习僧</a><br>
+<a href="https://www.ncss.cn/">国家大学生就业服务平台</a></p>
+<p>能源<br>
+<a href="https://news.cctv.com/2020/12/25/ARTIjJHSuXVXIrZDpqZHPqZR201225.shtml">焦点访谈：我们一天也离不开的能源，现状和未来是什么样？_新闻频道_央视网(cctv.com)</a><br>
+<a href="https://wri.org.cn/guandian/energy-transition-worldwide">6张图鸟瞰全球能源转型 | WRI China</a></p>
+]]></content>
+    </entry>
+</feed>
