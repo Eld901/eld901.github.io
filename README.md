@@ -2,6 +2,10 @@
 # this is a test text
 ## this is a test text
 ### this is a test text
+本地浏览：建议下载VSCode查看.md文件
+1. 主页
+githubpages：https://eld901.github.io/
+test：https://eld901.github.io/test/
 #### 说明
 文件来自个人的笔记整理，其中收录了一些工具站，可供学习参考。
 
