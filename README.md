@@ -2,7 +2,7 @@
 本地浏览：建议下载VSCode查看.md文件  
 
 githubpages：[https://eld901.github.io/](https://eld901.github.io/)  
-docsify：[[https://eld901.github.io/reld901.github.io/#/](https://eld901.github.io/eld901.vsnote/#/)]
+docsify：[[https://eld901.github.io/reld901.github.io/#/](https://eld901.github.io/eld901.vsnote/#/)]  
 test：[https://eld901.github.io/test/](https://eld901.github.io/test/)
 #### 说明
 文件来自个人的笔记整理，其中收录了一些工具站，可供学习参考。  
