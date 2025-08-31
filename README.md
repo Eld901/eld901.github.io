@@ -1,8 +1,8 @@
 # vsnote
 本地浏览：建议下载VSCode查看.md文件  
 
-docsify：[https://eld901.github.io/vsnote/#/](https://eld901.github.io/vsnote/#/)  
-practice：[https://eld901.github.io/DEMO_Frontend/00_HTML_.html](https://eld901.github.io/DEMO_Frontend/00_HTML_.html)  
+vsnote：[https://eld901.github.io/vsnote/#/](https://eld901.github.io/vsnote/#/)  
+DEMO_Frontend：[https://eld901.github.io/DEMO_Frontend/00_HTML_.html](https://eld901.github.io/DEMO_Frontend/00_HTML_.html)  
 #### 说明
 文件来自个人的笔记整理，其中收录了一些工具站，可供学习参考。  
 
