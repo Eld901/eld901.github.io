@@ -2,7 +2,7 @@
 本地浏览：建议下载VSCode查看.md文件  
 
 vsnote：[https://eld901.github.io/vsnote/#/](https://eld901.github.io/vsnote/#/)  
-demoFrontend：[https://eld901.github.io/demoFrontend/00_HTML_.html](https://eld901.github.io/demoFrontend/00_HTML_.html)  
+demoFrontend：[https://eld901.github.io/demoFrontend/01/00_HTML_.html](https://eld901.github.io/demoFrontend/01/00_HTML_.html)  
 #### 说明
 文件来自个人的笔记整理，其中收录了一些工具站，可供学习参考。  
 
